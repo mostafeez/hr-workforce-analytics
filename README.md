@@ -49,7 +49,7 @@ Python · Pandas · NumPy · Matplotlib · Pytest
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/hr-workforce-analytics.git
+git clone https://github.com/mostafeez/hr-workforce-analytics.git
 cd hr-workforce-analytics
 ```
 

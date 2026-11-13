@@ -1,0 +1,351 @@
+customer_id,signup_date,region,customer_segment
+C0001,2024-11-20,Central,Consumer
+C0002,2024-01-08,North,Corporate
+C0003,2024-11-06,East,Consumer
+C0004,2023-10-04,West,Small Business
+C0005,2024-11-02,North,Consumer
+C0006,2024-10-28,North,Consumer
+C0007,2024-10-25,East,Consumer
+C0008,2024-08-28,Central,Consumer
+C0009,2024-05-23,East,Consumer
+C0010,2024-09-17,Central,Corporate
+C0011,2024-02-16,West,Consumer
+C0012,2024-10-25,East,Consumer
+C0013,2024-07-04,West,Consumer
+C0014,2024-05-17,North,Consumer
+C0015,2024-06-09,North,Consumer
+C0016,2024-07-11,Central,Corporate
+C0017,2023-10-19,West,Consumer
+C0018,2023-12-09,South,Consumer
+C0019,2024-01-31,East,Consumer
+C0020,2023-11-27,West,Consumer
+C0021,2024-05-07,Central,Consumer
+C0022,2024-08-30,West,Small Business
+C0023,2024-08-23,East,Consumer
+C0024,2024-05-23,South,Corporate
+C0025,2024-12-01,East,Consumer
+C0026,2024-07-09,West,Consumer
+C0027,2023-11-09,Central,Small Business
+C0028,2024-10-17,East,Corporate
+C0029,2024-07-14,South,Small Business
+C0030,2024-08-13,South,Corporate
+C0031,2024-07-09,West,Small Business
+C0032,2024-07-03,West,Small Business
+C0033,2023-11-15,North,Consumer
+C0034,2024-07-06,North,Small Business
+C0035,2024-11-01,East,Consumer
+C0036,2024-02-29,North,Consumer
+C0037,2024-07-28,Central,Consumer
+C0038,2023-10-16,South,Corporate
+C0039,2024-03-22,North,Corporate
+C0040,2024-05-06,Central,Consumer
+C0041,2025-02-03,North,Small Business
+C0042,2024-01-16,South,Small Business
+C0043,2024-02-16,North,Consumer
+C0044,2024-04-22,North,Consumer
+C0045,2025-02-08,North,Consumer
+C0046,2024-11-30,North,Small Business
+C0047,2023-10-18,North,Consumer
+C0048,2024-01-25,North,Corporate
+C0049,2024-11-14,East,Consumer
+C0050,2023-10-30,West,Corporate
+C0051,2024-12-01,South,Consumer
+C0052,2024-02-18,South,Small Business
+C0053,2025-01-01,East,Consumer
+C0054,2024-02-24,Central,Consumer
+C0055,2024-05-05,Central,Small Business
+C0056,2024-08-26,North,Corporate
+C0057,2023-12-03,North,Small Business
+C0058,2024-07-05,South,Consumer
+C0059,2024-06-09,South,Consumer
+C0060,2024-10-26,East,Consumer
+C0061,2025-02-10,East,Consumer
+C0062,2024-08-28,North,Consumer
+C0063,2024-04-22,South,Small Business
+C0064,2024-04-21,East,Small Business
+C0065,2024-04-26,North,Small Business
+C0066,2024-11-11,Central,Small Business
+C0067,2024-03-09,North,Small Business
+C0068,2023-12-23,Central,Consumer
+C0069,2024-03-16,North,Consumer
+C0070,2023-10-12,Central,Consumer
+C0071,2023-11-23,Central,Small Business
+C0072,2023-11-15,Central,Consumer
+C0073,2024-10-20,West,Consumer
+C0074,2024-09-26,West,Consumer
+C0075,2024-09-13,West,Consumer
+C0076,2024-05-18,West,Consumer
+C0077,2024-09-23,North,Small Business
+C0078,2023-12-20,East,Consumer
+C0079,2024-12-24,East,Consumer
+C0080,2024-06-07,Central,Small Business
+C0081,2025-01-12,East,Consumer
+C0082,2023-12-16,South,Small Business
+C0083,2024-06-05,West,Consumer
+C0084,2024-09-13,South,Consumer
+C0085,2024-06-04,North,Consumer
+C0086,2024-05-11,East,Consumer
+C0087,2023-12-23,East,Small Business
+C0088,2024-04-08,South,Consumer
+C0089,2024-01-28,South,Consumer
+C0090,2024-02-28,South,Consumer
+C0091,2024-09-06,South,Small Business
+C0092,2024-08-11,South,Small Business
+C0093,2024-07-30,West,Corporate
+C0094,2024-03-29,South,Consumer
+C0095,2025-01-22,Central,Consumer
+C0096,2023-11-13,Central,Consumer
+C0097,2024-03-20,East,Consumer
+C0098,2023-11-29,South,Corporate
+C0099,2024-03-18,East,Small Business
+C0100,2025-01-23,Central,Consumer
+C0101,2024-04-01,West,Consumer
+C0102,2024-12-28,West,Corporate
+C0103,2024-06-04,East,Consumer
+C0104,2024-09-14,West,Consumer
+C0105,2024-05-16,South,Consumer
+C0106,2024-02-10,West,Consumer
+C0107,2024-10-17,North,Consumer
+C0108,2025-01-27,West,Consumer
+C0109,2024-02-09,Central,Consumer
+C0110,2024-10-24,North,Consumer
+C0111,2024-02-08,West,Consumer
+C0112,2024-09-23,North,Consumer
+C0113,2024-10-29,West,Corporate
+C0114,2024-05-12,North,Small Business
+C0115,2024-10-03,Central,Consumer
+C0116,2024-02-14,North,Consumer
+C0117,2023-11-09,Central,Small Business
+C0118,2023-11-18,West,Consumer
+C0119,2024-05-11,East,Consumer
+C0120,2024-12-25,West,Corporate
+C0121,2023-12-03,West,Consumer
+C0122,2024-05-15,Central,Small Business
+C0123,2024-09-17,South,Consumer
+C0124,2024-01-10,East,Consumer
+C0125,2024-09-25,North,Consumer
+C0126,2024-03-01,West,Consumer
+C0127,2024-11-08,North,Consumer
+C0128,2024-07-16,East,Consumer
+C0129,2024-06-30,East,Small Business
+C0130,2023-12-28,East,Consumer
+C0131,2024-05-19,East,Consumer
+C0132,2024-12-02,West,Small Business
+C0133,2023-10-10,West,Small Business
+C0134,2024-10-14,East,Consumer
+C0135,2024-06-03,East,Consumer
+C0136,2024-09-24,Central,Corporate
+C0137,2024-08-27,North,Consumer
+C0138,2024-05-04,North,Small Business
+C0139,2024-03-03,North,Corporate
+C0140,2024-08-09,West,Small Business
+C0141,2023-12-10,East,Consumer
+C0142,2024-07-19,West,Consumer
+C0143,2023-11-17,West,Consumer
+C0144,2024-08-20,South,Consumer
+C0145,2024-08-10,Central,Corporate
+C0146,2023-11-12,West,Consumer
+C0147,2024-10-13,South,Consumer
+C0148,2024-04-25,South,Consumer
+C0149,2024-10-28,South,Corporate
+C0150,2023-10-21,North,Consumer
+C0151,2023-12-29,North,Consumer
+C0152,2024-06-03,Central,Consumer
+C0153,2024-01-03,East,Consumer
+C0154,2024-03-13,South,Consumer
+C0155,2024-08-26,West,Consumer
+C0156,2023-12-12,East,Consumer
+C0157,2024-09-03,Central,Consumer
+C0158,2023-11-21,West,Consumer
+C0159,2023-12-27,East,Consumer
+C0160,2024-07-20,South,Consumer
+C0161,2024-10-31,Central,Small Business
+C0162,2023-12-25,West,Consumer
+C0163,2024-02-27,Central,Consumer
+C0164,2025-01-05,North,Consumer
+C0165,2025-02-06,Central,Consumer
+C0166,2024-07-17,West,Consumer
+C0167,2024-05-11,North,Consumer
+C0168,2024-03-22,East,Small Business
+C0169,2024-08-02,West,Consumer
+C0170,2024-07-22,North,Consumer
+C0171,2024-02-25,East,Consumer
+C0172,2023-10-12,Central,Consumer
+C0173,2023-12-15,South,Consumer
+C0174,2025-01-22,East,Small Business
+C0175,2024-04-27,East,Small Business
+C0176,2024-05-29,South,Consumer
+C0177,2024-05-21,Central,Consumer
+C0178,2024-10-26,West,Consumer
+C0179,2023-11-02,North,Consumer
+C0180,2023-11-11,Central,Small Business
+C0181,2024-02-15,Central,Consumer
+C0182,2024-05-31,South,Consumer
+C0183,2024-08-31,Central,Corporate
+C0184,2024-06-02,North,Consumer
+C0185,2024-05-08,Central,Consumer
+C0186,2025-01-11,West,Small Business
+C0187,2023-12-20,West,Consumer
+C0188,2024-07-12,North,Consumer
+C0189,2024-06-28,Central,Consumer
+C0190,2024-05-24,North,Corporate
+C0191,2024-11-07,South,Consumer
+C0192,2024-02-11,North,Consumer
+C0193,2025-01-19,West,Consumer
+C0194,2024-03-14,North,Consumer
+C0195,2024-06-29,Central,Consumer
+C0196,2024-06-17,West,Consumer
+C0197,2024-11-28,North,Consumer
+C0198,2024-05-07,North,Consumer
+C0199,2024-02-20,North,Small Business
+C0200,2023-10-11,West,Consumer
+C0201,2024-03-30,West,Small Business
+C0202,2024-11-17,South,Consumer
+C0203,2023-10-05,Central,Consumer
+C0204,2024-12-22,North,Small Business
+C0205,2024-06-28,West,Small Business
+C0206,2023-12-10,Central,Consumer
+C0207,2024-02-29,West,Corporate
+C0208,2024-07-04,West,Consumer
+C0209,2024-03-06,Central,Consumer
+C0210,2023-11-24,North,Corporate
+C0211,2024-08-28,North,Consumer
+C0212,2024-09-01,North,Small Business
+C0213,2023-11-29,East,Consumer
+C0214,2024-02-18,West,Small Business
+C0215,2024-01-30,West,Consumer
+C0216,2024-08-25,Central,Consumer
+C0217,2024-09-30,North,Consumer
+C0218,2024-09-28,West,Consumer
+C0219,2025-01-12,North,Consumer
+C0220,2024-10-19,South,Consumer
+C0221,2024-03-09,West,Consumer
+C0222,2023-11-23,Central,Consumer
+C0223,2024-08-03,West,Consumer
+C0224,2025-01-01,North,Small Business
+C0225,2025-01-30,West,Small Business
+C0226,2024-01-24,North,Small Business
+C0227,2024-01-27,Central,Consumer
+C0228,2023-10-19,West,Small Business
+C0229,2023-12-10,North,Consumer
+C0230,2024-07-04,North,Consumer
+C0231,2024-06-30,North,Consumer
+C0232,2024-04-03,Central,Small Business
+C0233,2024-03-03,East,Consumer
+C0234,2024-11-18,West,Consumer
+C0235,2024-05-18,West,Corporate
+C0236,2024-11-08,East,Consumer
+C0237,2025-01-24,North,Consumer
+C0238,2024-03-07,Central,Corporate
+C0239,2024-01-10,South,Consumer
+C0240,2025-01-19,East,Consumer
+C0241,2024-08-13,West,Small Business
+C0242,2024-02-23,West,Small Business
+C0243,2024-08-06,Central,Consumer
+C0244,2024-06-14,North,Consumer
+C0245,2024-12-26,East,Consumer
+C0246,2024-02-05,East,Consumer
+C0247,2025-02-07,East,Consumer
+C0248,2025-01-11,North,Consumer
+C0249,2023-12-30,North,Consumer
+C0250,2023-12-22,South,Small Business
+C0251,2024-06-23,South,Consumer
+C0252,2023-10-23,East,Consumer
+C0253,2024-02-27,West,Consumer
+C0254,2024-05-05,West,Small Business
+C0255,2025-01-27,East,Consumer
+C0256,2025-02-08,East,Consumer
+C0257,2023-12-15,North,Consumer
+C0258,2024-12-19,East,Consumer
+C0259,2023-11-15,South,Consumer
+C0260,2024-10-09,North,Small Business
+C0261,2024-11-26,East,Consumer
+C0262,2024-12-19,East,Small Business
+C0263,2024-01-20,South,Corporate
+C0264,2024-12-20,East,Consumer
+C0265,2023-11-27,East,Consumer
+C0266,2024-06-16,West,Consumer
+C0267,2024-05-22,West,Small Business
+C0268,2024-03-06,West,Consumer
+C0269,2023-10-12,South,Consumer
+C0270,2024-10-21,West,Consumer
+C0271,2024-03-16,East,Small Business
+C0272,2024-08-26,East,Consumer
+C0273,2024-04-23,West,Small Business
+C0274,2024-04-04,South,Consumer
+C0275,2024-12-17,East,Corporate
+C0276,2023-11-17,West,Consumer
+C0277,2024-10-03,Central,Consumer
+C0278,2024-10-08,Central,Small Business
+C0279,2024-04-07,East,Corporate
+C0280,2024-02-09,East,Consumer
+C0281,2023-10-03,West,Consumer
+C0282,2025-01-11,South,Small Business
+C0283,2025-01-16,Central,Small Business
+C0284,2024-01-29,East,Consumer
+C0285,2023-10-16,North,Consumer
+C0286,2023-12-01,North,Small Business
+C0287,2023-11-03,Central,Small Business
+C0288,2024-11-19,North,Small Business
+C0289,2024-12-19,South,Consumer
+C0290,2023-12-16,South,Consumer
+C0291,2024-10-08,North,Corporate
+C0292,2023-12-29,South,Small Business
+C0293,2024-04-01,West,Small Business
+C0294,2024-07-26,North,Consumer
+C0295,2024-09-24,Central,Consumer
+C0296,2024-12-11,Central,Small Business
+C0297,2023-10-23,South,Consumer
+C0298,2024-01-07,North,Corporate
+C0299,2024-02-18,West,Consumer
+C0300,2024-03-04,North,Small Business
+C0301,2025-02-11,South,Small Business
+C0302,2024-10-23,Central,Consumer
+C0303,2024-03-09,Central,Consumer
+C0304,2025-01-28,West,Consumer
+C0305,2024-06-06,South,Consumer
+C0306,2024-06-07,West,Consumer
+C0307,2024-05-04,West,Consumer
+C0308,2023-12-11,South,Corporate
+C0309,2025-01-10,West,Consumer
+C0310,2023-10-07,North,Consumer
+C0311,2023-12-27,North,Consumer
+C0312,2024-01-23,East,Consumer
+C0313,2024-02-17,North,Consumer
+C0314,2023-12-05,North,Consumer
+C0315,2023-10-09,Central,Small Business
+C0316,2024-09-03,Central,Consumer
+C0317,2025-01-27,East,Corporate
+C0318,2023-11-30,Central,Consumer
+C0319,2024-02-26,Central,Consumer
+C0320,2024-06-10,North,Small Business
+C0321,2025-01-06,East,Small Business
+C0322,2024-09-12,South,Consumer
+C0323,2024-10-18,North,Consumer
+C0324,2024-07-17,West,Consumer
+C0325,2024-04-26,East,Consumer
+C0326,2024-01-08,East,Consumer
+C0327,2024-12-06,North,Consumer
+C0328,2024-11-06,North,Consumer
+C0329,2023-10-13,Central,Consumer
+C0330,2024-09-22,North,Corporate
+C0331,2023-11-12,South,Consumer
+C0332,2024-10-04,South,Consumer
+C0333,2024-11-16,East,Consumer
+C0334,2023-12-05,East,Consumer
+C0335,2024-05-04,East,Consumer
+C0336,2023-12-01,North,Small Business
+C0337,2024-07-10,South,Small Business
+C0338,2025-01-06,Central,Corporate
+C0339,2023-11-10,West,Corporate
+C0340,2024-04-16,West,Corporate
+C0341,2025-01-29,West,Corporate
+C0342,2024-02-28,West,Consumer
+C0343,2023-12-06,North,Consumer
+C0344,2024-06-01,South,Consumer
+C0345,2024-06-11,East,Consumer
+C0346,2024-08-27,South,Consumer
+C0347,2024-03-05,Central,Small Business
+C0348,2025-01-20,East,Consumer
+C0349,2024-06-17,West,Consumer
+C0350,2024-02-21,Central,Consumer

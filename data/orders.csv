@@ -1,0 +1,1101 @@
+order_id,customer_id,order_date,order_status,payment_method,discount_rate,shipping_cost
+O00001,C0210,2025-01-09,Delivered,Digital Wallet,0.0,1.69
+O00002,C0247,2024-10-20,Delivered,Bank Transfer,0.0,2.14
+O00003,C0163,2025-11-09,Delivered,Bank Transfer,0.05,7.87
+O00004,C0053,2024-06-13,Delivered,Cash on Delivery,0.1,4.05
+O00005,C0035,2024-10-21,Delivered,Card,0.05,5.22
+O00006,C0350,2025-09-10,Delivered,Bank Transfer,0.05,5.89
+O00007,C0166,2025-04-06,Delivered,Digital Wallet,0.15,2.72
+O00008,C0299,2024-10-18,Returned,Cash on Delivery,0.1,3.02
+O00009,C0178,2024-07-05,Delivered,Bank Transfer,0.1,8.45
+O00010,C0315,2024-01-26,Delivered,Digital Wallet,0.0,7.76
+O00011,C0028,2024-03-03,Delivered,Cash on Delivery,0.0,5.33
+O00012,C0039,2024-04-28,Delivered,Card,0.15,1.93
+O00013,C0317,2025-07-28,Delivered,Bank Transfer,0.1,8.88
+O00014,C0326,2025-04-11,Delivered,Bank Transfer,0.1,3.48
+O00015,C0116,2024-11-12,Delivered,Cash on Delivery,0.05,6.59
+O00016,C0128,2025-07-25,Delivered,Bank Transfer,0.15,4.88
+O00017,C0165,2024-04-27,Delivered,Bank Transfer,0.05,3.83
+O00018,C0150,2024-06-02,Delivered,Bank Transfer,0.1,7.79
+O00019,C0066,2024-10-13,Delivered,Card,0.0,7.62
+O00020,C0308,2025-10-31,Delivered,Digital Wallet,0.1,5.22
+O00021,C0093,2025-03-24,Delivered,Cash on Delivery,0.15,5.41
+O00022,C0245,2025-09-13,Delivered,Card,0.0,1.62
+O00023,C0022,2024-06-30,Delivered,Card,0.0,5.94
+O00024,C0012,2025-09-11,Delivered,Cash on Delivery,0.15,7.98
+O00025,C0229,2024-02-22,Delivered,Card,0.1,5.28
+O00026,C0124,2024-06-15,Delivered,Card,0.05,4.4
+O00027,C0230,2025-01-16,Delivered,Digital Wallet,0.15,7.44
+O00028,C0031,2024-02-06,Delivered,Bank Transfer,0.05,7.54
+O00029,C0328,2025-09-18,Returned,Digital Wallet,0.05,3.65
+O00030,C0255,2025-09-25,Returned,Card,0.0,2.57
+O00031,C0300,2025-01-30,Delivered,Card,0.05,6.11
+O00032,C0047,2024-08-11,Delivered,Digital Wallet,0.1,8.14
+O00033,C0118,2024-03-13,Delivered,Cash on Delivery,0.2,5.99
+O00034,C0133,2025-03-27,Delivered,Digital Wallet,0.0,7.17
+O00035,C0194,2025-01-27,Delivered,Digital Wallet,0.0,3.88
+O00036,C0107,2025-07-08,Delivered,Bank Transfer,0.0,2.46
+O00037,C0020,2025-03-15,Delivered,Digital Wallet,0.15,3.92
+O00038,C0134,2024-04-03,Returned,Cash on Delivery,0.1,4.36
+O00039,C0094,2024-03-29,Delivered,Digital Wallet,0.15,4.68
+O00040,C0142,2025-07-24,Delivered,Bank Transfer,0.1,1.96
+O00041,C0069,2024-04-26,Delivered,Digital Wallet,0.1,8.01
+O00042,C0096,2025-11-16,Delivered,Bank Transfer,0.15,6.98
+O00043,C0222,2024-03-18,Delivered,Bank Transfer,0.05,7.65
+O00044,C0143,2025-06-15,Delivered,Card,0.1,7.47
+O00045,C0127,2025-12-12,Delivered,Bank Transfer,0.0,5.34
+O00046,C0194,2024-11-18,Returned,Digital Wallet,0.0,8.91
+O00047,C0261,2024-02-11,Delivered,Digital Wallet,0.05,6.47
+O00048,C0137,2025-10-01,Delivered,Cash on Delivery,0.15,8.71
+O00049,C0210,2024-05-16,Delivered,Card,0.1,8.46
+O00050,C0337,2025-01-20,Delivered,Cash on Delivery,0.05,3.55
+O00051,C0190,2025-12-19,Delivered,Card,0.0,2.68
+O00052,C0311,2025-06-27,Delivered,Cash on Delivery,0.1,1.96
+O00053,C0268,2024-02-03,Delivered,Cash on Delivery,0.1,5.54
+O00054,C0020,2025-08-21,Delivered,Cash on Delivery,0.05,5.03
+O00055,C0157,2024-04-27,Delivered,Cash on Delivery,0.1,6.32
+O00056,C0240,2025-07-01,Delivered,Bank Transfer,0.05,4.25
+O00057,C0346,2025-03-29,Delivered,Digital Wallet,0.05,1.71
+O00058,C0167,2024-07-29,Delivered,Cash on Delivery,0.0,8.99
+O00059,C0031,2024-11-05,Returned,Digital Wallet,0.1,4.98
+O00060,C0204,2024-03-27,Delivered,Digital Wallet,0.0,6.47
+O00061,C0043,2025-12-21,Delivered,Card,0.15,6.79
+O00062,C0255,2024-06-22,Delivered,Cash on Delivery,0.15,4.4
+O00063,C0187,2024-08-13,Delivered,Cash on Delivery,0.15,4.1
+O00064,C0247,2025-01-02,Delivered,Bank Transfer,0.15,5.49
+O00065,C0296,2025-05-05,Delivered,Bank Transfer,0.0,2.89
+O00066,C0223,2025-01-03,Delivered,Bank Transfer,0.0,2.18
+O00067,C0218,2025-01-03,Delivered,Bank Transfer,0.05,2.47
+O00068,C0256,2025-03-01,Delivered,Digital Wallet,0.05,2.69
+O00069,C0284,2025-09-18,Delivered,Card,0.1,2.98
+O00070,C0295,2024-10-15,Delivered,Card,0.0,4.29
+O00071,C0012,2025-08-30,Cancelled,Card,0.2,8.85
+O00072,C0203,2025-07-28,Delivered,Digital Wallet,0.1,4.18
+O00073,C0075,2025-12-02,Returned,Digital Wallet,0.0,5.74
+O00074,C0289,2025-10-28,Delivered,Digital Wallet,0.15,8.6
+O00075,C0227,2025-08-05,Delivered,Bank Transfer,0.05,3.85
+O00076,C0150,2024-06-29,Delivered,Card,0.1,8.62
+O00077,C0066,2025-07-19,Delivered,Cash on Delivery,0.15,3.7
+O00078,C0124,2025-06-21,Delivered,Card,0.1,2.39
+O00079,C0243,2024-07-30,Delivered,Card,0.1,2.67
+O00080,C0072,2025-05-09,Delivered,Cash on Delivery,0.0,7.24
+O00081,C0031,2024-07-03,Delivered,Cash on Delivery,0.15,2.22
+O00082,C0305,2025-01-16,Delivered,Cash on Delivery,0.15,3.88
+O00083,C0258,2025-08-04,Delivered,Digital Wallet,0.1,5.09
+O00084,C0070,2024-05-17,Delivered,Cash on Delivery,0.15,6.82
+O00085,C0106,2024-09-02,Delivered,Digital Wallet,0.05,5.06
+O00086,C0341,2025-08-03,Delivered,Digital Wallet,0.1,4.79
+O00087,C0245,2024-11-27,Delivered,Card,0.1,3.6
+O00088,C0218,2025-12-02,Returned,Cash on Delivery,0.1,8.97
+O00089,C0111,2024-01-06,Delivered,Bank Transfer,0.15,6.94
+O00090,C0108,2025-06-10,Returned,Bank Transfer,0.15,2.28
+O00091,C0012,2025-08-17,Delivered,Cash on Delivery,0.1,5.64
+O00092,C0250,2025-11-01,Delivered,Card,0.15,2.93
+O00093,C0014,2024-04-24,Delivered,Card,0.1,2.03
+O00094,C0002,2025-12-19,Delivered,Cash on Delivery,0.05,2.65
+O00095,C0251,2024-10-13,Delivered,Bank Transfer,0.0,4.38
+O00096,C0327,2024-09-13,Delivered,Bank Transfer,0.15,4.05
+O00097,C0256,2024-09-16,Delivered,Bank Transfer,0.05,8.67
+O00098,C0172,2025-04-10,Delivered,Bank Transfer,0.05,7.62
+O00099,C0178,2025-04-26,Delivered,Card,0.15,3.67
+O00100,C0162,2024-12-11,Delivered,Card,0.2,6.04
+O00101,C0119,2024-02-21,Delivered,Card,0.15,4.52
+O00102,C0190,2025-12-21,Delivered,Cash on Delivery,0.05,6.85
+O00103,C0157,2024-06-11,Delivered,Digital Wallet,0.1,4.08
+O00104,C0213,2024-03-09,Delivered,Bank Transfer,0.05,7.68
+O00105,C0307,2025-03-12,Returned,Digital Wallet,0.0,8.55
+O00106,C0348,2024-10-28,Delivered,Bank Transfer,0.0,1.69
+O00107,C0026,2025-03-25,Delivered,Digital Wallet,0.15,5.4
+O00108,C0142,2025-10-01,Delivered,Digital Wallet,0.1,6.45
+O00109,C0063,2024-03-12,Delivered,Digital Wallet,0.1,2.77
+O00110,C0128,2024-07-26,Delivered,Cash on Delivery,0.15,3.77
+O00111,C0104,2025-01-12,Delivered,Card,0.15,5.39
+O00112,C0059,2025-07-29,Delivered,Bank Transfer,0.0,3.55
+O00113,C0258,2025-03-14,Delivered,Bank Transfer,0.0,7.07
+O00114,C0183,2024-10-06,Delivered,Digital Wallet,0.0,1.52
+O00115,C0314,2025-03-21,Delivered,Digital Wallet,0.0,1.72
+O00116,C0010,2025-12-16,Delivered,Cash on Delivery,0.05,8.08
+O00117,C0022,2024-12-16,Delivered,Cash on Delivery,0.05,2.62
+O00118,C0148,2025-10-06,Delivered,Bank Transfer,0.0,6.44
+O00119,C0026,2025-07-23,Delivered,Bank Transfer,0.2,4.94
+O00120,C0097,2024-08-07,Delivered,Card,0.1,7.88
+O00121,C0346,2024-07-01,Delivered,Digital Wallet,0.0,4.48
+O00122,C0073,2025-07-16,Delivered,Bank Transfer,0.05,7.22
+O00123,C0069,2024-05-31,Delivered,Card,0.15,7.0
+O00124,C0207,2024-09-02,Delivered,Card,0.1,2.18
+O00125,C0183,2024-06-20,Delivered,Card,0.05,8.85
+O00126,C0208,2025-03-18,Delivered,Cash on Delivery,0.05,7.1
+O00127,C0136,2024-08-02,Delivered,Bank Transfer,0.0,5.65
+O00128,C0277,2025-04-25,Delivered,Cash on Delivery,0.05,2.06
+O00129,C0048,2025-11-13,Delivered,Bank Transfer,0.15,3.27
+O00130,C0157,2025-08-28,Delivered,Bank Transfer,0.05,4.48
+O00131,C0239,2025-11-23,Delivered,Cash on Delivery,0.15,3.13
+O00132,C0294,2024-01-18,Delivered,Bank Transfer,0.1,5.0
+O00133,C0135,2024-11-28,Delivered,Digital Wallet,0.2,6.29
+O00134,C0206,2024-06-09,Delivered,Bank Transfer,0.1,1.9
+O00135,C0022,2025-11-01,Delivered,Card,0.0,3.55
+O00136,C0058,2025-06-03,Delivered,Bank Transfer,0.05,8.03
+O00137,C0022,2024-08-21,Returned,Digital Wallet,0.05,2.12
+O00138,C0250,2025-02-15,Delivered,Cash on Delivery,0.05,6.45
+O00139,C0104,2025-03-17,Delivered,Bank Transfer,0.15,8.58
+O00140,C0247,2024-12-27,Cancelled,Digital Wallet,0.05,3.64
+O00141,C0021,2024-12-12,Delivered,Card,0.05,6.51
+O00142,C0291,2024-02-10,Delivered,Digital Wallet,0.05,4.3
+O00143,C0281,2024-11-26,Delivered,Digital Wallet,0.0,4.1
+O00144,C0029,2024-09-11,Delivered,Card,0.05,6.09
+O00145,C0007,2025-08-20,Delivered,Card,0.1,6.61
+O00146,C0018,2025-09-23,Delivered,Digital Wallet,0.0,7.34
+O00147,C0287,2025-07-01,Delivered,Cash on Delivery,0.0,5.47
+O00148,C0088,2024-01-23,Delivered,Digital Wallet,0.05,8.92
+O00149,C0198,2025-09-06,Delivered,Cash on Delivery,0.05,3.54
+O00150,C0154,2024-10-16,Delivered,Digital Wallet,0.0,4.73
+O00151,C0268,2024-10-30,Delivered,Card,0.2,8.37
+O00152,C0179,2025-11-20,Delivered,Cash on Delivery,0.05,8.67
+O00153,C0185,2025-09-25,Delivered,Bank Transfer,0.0,1.85
+O00154,C0346,2024-02-07,Delivered,Card,0.1,5.38
+O00155,C0051,2024-09-19,Delivered,Digital Wallet,0.1,3.56
+O00156,C0279,2025-07-01,Delivered,Cash on Delivery,0.05,6.62
+O00157,C0016,2025-01-28,Delivered,Digital Wallet,0.05,4.72
+O00158,C0174,2024-07-07,Delivered,Card,0.1,7.54
+O00159,C0303,2025-01-18,Delivered,Card,0.05,5.29
+O00160,C0232,2025-09-24,Delivered,Digital Wallet,0.1,5.39
+O00161,C0236,2024-06-12,Delivered,Digital Wallet,0.1,6.02
+O00162,C0098,2025-06-28,Cancelled,Cash on Delivery,0.0,3.6
+O00163,C0150,2025-06-20,Delivered,Cash on Delivery,0.15,7.44
+O00164,C0131,2025-10-08,Delivered,Cash on Delivery,0.0,6.62
+O00165,C0190,2024-08-05,Delivered,Card,0.15,7.12
+O00166,C0169,2024-06-06,Delivered,Digital Wallet,0.0,5.14
+O00167,C0119,2025-02-03,Delivered,Cash on Delivery,0.1,6.24
+O00168,C0111,2025-01-22,Delivered,Cash on Delivery,0.2,5.49
+O00169,C0092,2024-10-25,Delivered,Card,0.0,4.21
+O00170,C0131,2025-07-22,Delivered,Card,0.0,6.16
+O00171,C0051,2025-08-06,Delivered,Digital Wallet,0.15,8.33
+O00172,C0299,2024-06-28,Delivered,Cash on Delivery,0.1,4.17
+O00173,C0215,2025-08-03,Delivered,Cash on Delivery,0.0,1.83
+O00174,C0046,2024-06-17,Delivered,Digital Wallet,0.0,6.95
+O00175,C0240,2024-10-24,Delivered,Digital Wallet,0.1,4.76
+O00176,C0287,2024-01-20,Delivered,Bank Transfer,0.1,2.99
+O00177,C0088,2024-09-05,Delivered,Digital Wallet,0.05,4.48
+O00178,C0051,2025-11-30,Delivered,Bank Transfer,0.0,8.85
+O00179,C0003,2024-11-19,Delivered,Card,0.15,3.56
+O00180,C0014,2025-06-02,Returned,Card,0.1,6.18
+O00181,C0258,2024-03-19,Delivered,Digital Wallet,0.2,3.17
+O00182,C0346,2025-04-08,Delivered,Bank Transfer,0.05,1.89
+O00183,C0014,2024-09-28,Delivered,Digital Wallet,0.1,6.33
+O00184,C0255,2025-06-27,Delivered,Bank Transfer,0.05,5.32
+O00185,C0024,2025-11-08,Delivered,Bank Transfer,0.0,5.3
+O00186,C0210,2025-01-23,Returned,Digital Wallet,0.2,3.75
+O00187,C0256,2024-03-16,Delivered,Digital Wallet,0.05,8.47
+O00188,C0130,2024-12-13,Delivered,Bank Transfer,0.0,5.05
+O00189,C0005,2024-03-30,Returned,Digital Wallet,0.0,4.61
+O00190,C0213,2024-11-24,Delivered,Cash on Delivery,0.0,2.81
+O00191,C0346,2024-02-14,Delivered,Digital Wallet,0.0,5.48
+O00192,C0095,2025-04-12,Delivered,Digital Wallet,0.05,2.79
+O00193,C0066,2024-08-14,Returned,Cash on Delivery,0.15,4.54
+O00194,C0043,2024-05-27,Delivered,Card,0.0,2.27
+O00195,C0202,2024-01-13,Delivered,Card,0.15,8.37
+O00196,C0213,2025-10-10,Delivered,Card,0.1,2.54
+O00197,C0268,2025-09-03,Delivered,Digital Wallet,0.05,7.53
+O00198,C0255,2025-08-15,Delivered,Bank Transfer,0.05,8.02
+O00199,C0306,2024-02-12,Delivered,Digital Wallet,0.15,7.95
+O00200,C0270,2024-09-12,Delivered,Bank Transfer,0.2,3.77
+O00201,C0092,2025-12-10,Delivered,Digital Wallet,0.15,5.88
+O00202,C0203,2025-02-26,Delivered,Card,0.1,4.02
+O00203,C0108,2024-04-03,Delivered,Digital Wallet,0.0,3.61
+O00204,C0120,2024-04-12,Delivered,Digital Wallet,0.15,4.55
+O00205,C0319,2024-07-11,Delivered,Digital Wallet,0.15,7.07
+O00206,C0236,2025-12-10,Delivered,Digital Wallet,0.1,6.49
+O00207,C0341,2024-05-03,Delivered,Cash on Delivery,0.15,7.15
+O00208,C0150,2025-10-21,Delivered,Digital Wallet,0.0,2.57
+O00209,C0195,2025-05-09,Delivered,Digital Wallet,0.1,6.61
+O00210,C0178,2025-11-03,Delivered,Card,0.0,3.28
+O00211,C0035,2025-08-25,Delivered,Card,0.2,5.71
+O00212,C0088,2024-08-30,Delivered,Card,0.05,6.66
+O00213,C0191,2025-08-27,Delivered,Digital Wallet,0.0,5.65
+O00214,C0022,2024-05-03,Delivered,Digital Wallet,0.1,5.01
+O00215,C0319,2024-07-31,Delivered,Bank Transfer,0.05,5.17
+O00216,C0043,2024-06-03,Delivered,Digital Wallet,0.1,2.19
+O00217,C0069,2024-04-07,Returned,Bank Transfer,0.05,7.7
+O00218,C0258,2024-03-06,Delivered,Cash on Delivery,0.0,8.49
+O00219,C0033,2024-05-16,Delivered,Card,0.0,7.57
+O00220,C0308,2024-03-28,Delivered,Card,0.1,8.99
+O00221,C0248,2024-10-04,Delivered,Bank Transfer,0.1,3.28
+O00222,C0022,2024-02-22,Delivered,Digital Wallet,0.0,5.3
+O00223,C0239,2024-02-14,Delivered,Bank Transfer,0.1,5.01
+O00224,C0223,2025-12-23,Delivered,Cash on Delivery,0.05,6.55
+O00225,C0256,2024-03-05,Delivered,Bank Transfer,0.2,7.58
+O00226,C0278,2024-02-24,Delivered,Digital Wallet,0.0,8.71
+O00227,C0247,2024-01-22,Delivered,Cash on Delivery,0.05,1.98
+O00228,C0209,2024-04-06,Delivered,Digital Wallet,0.1,2.62
+O00229,C0119,2025-01-20,Delivered,Bank Transfer,0.1,7.97
+O00230,C0240,2025-08-26,Delivered,Card,0.2,5.76
+O00231,C0332,2025-06-20,Delivered,Bank Transfer,0.1,6.25
+O00232,C0210,2025-02-27,Delivered,Bank Transfer,0.1,1.93
+O00233,C0232,2024-03-03,Delivered,Bank Transfer,0.1,6.2
+O00234,C0162,2025-07-19,Delivered,Digital Wallet,0.0,4.82
+O00235,C0256,2024-01-28,Delivered,Cash on Delivery,0.0,3.78
+O00236,C0350,2025-04-05,Delivered,Card,0.0,6.52
+O00237,C0053,2024-10-25,Delivered,Bank Transfer,0.0,5.85
+O00238,C0072,2025-10-05,Delivered,Cash on Delivery,0.0,7.1
+O00239,C0195,2024-08-12,Delivered,Card,0.15,6.43
+O00240,C0178,2025-04-11,Delivered,Bank Transfer,0.15,4.28
+O00241,C0206,2024-11-17,Delivered,Cash on Delivery,0.0,5.51
+O00242,C0015,2025-01-16,Delivered,Card,0.05,8.28
+O00243,C0148,2025-11-16,Cancelled,Digital Wallet,0.1,2.28
+O00244,C0208,2025-06-04,Delivered,Digital Wallet,0.0,7.23
+O00245,C0209,2024-10-29,Delivered,Bank Transfer,0.15,6.38
+O00246,C0231,2024-11-22,Delivered,Bank Transfer,0.0,8.64
+O00247,C0247,2025-05-29,Delivered,Card,0.2,8.76
+O00248,C0225,2024-09-09,Delivered,Card,0.15,7.08
+O00249,C0268,2024-05-02,Delivered,Card,0.1,7.51
+O00250,C0221,2024-12-07,Delivered,Bank Transfer,0.15,3.33
+O00251,C0195,2024-02-19,Delivered,Bank Transfer,0.05,7.65
+O00252,C0217,2024-05-03,Delivered,Card,0.1,5.4
+O00253,C0035,2024-11-03,Delivered,Cash on Delivery,0.1,7.73
+O00254,C0101,2025-08-04,Delivered,Card,0.1,7.45
+O00255,C0191,2025-07-24,Delivered,Cash on Delivery,0.0,4.25
+O00256,C0299,2024-07-09,Delivered,Digital Wallet,0.05,4.0
+O00257,C0235,2024-11-04,Delivered,Card,0.05,5.76
+O00258,C0029,2024-04-22,Cancelled,Card,0.15,1.68
+O00259,C0210,2025-07-05,Delivered,Digital Wallet,0.1,3.99
+O00260,C0080,2024-06-28,Delivered,Digital Wallet,0.1,3.61
+O00261,C0252,2025-08-06,Returned,Card,0.05,1.82
+O00262,C0277,2025-09-06,Delivered,Cash on Delivery,0.1,7.86
+O00263,C0211,2025-05-18,Delivered,Card,0.1,1.96
+O00264,C0210,2024-08-29,Delivered,Card,0.1,3.54
+O00265,C0124,2025-11-26,Delivered,Digital Wallet,0.05,5.71
+O00266,C0163,2025-05-15,Cancelled,Cash on Delivery,0.0,3.82
+O00267,C0292,2025-04-16,Delivered,Bank Transfer,0.05,6.42
+O00268,C0247,2025-09-17,Delivered,Digital Wallet,0.05,4.93
+O00269,C0189,2025-10-05,Delivered,Card,0.1,3.3
+O00270,C0133,2024-02-26,Delivered,Card,0.0,6.49
+O00271,C0016,2025-10-05,Delivered,Digital Wallet,0.1,8.73
+O00272,C0050,2025-07-12,Delivered,Cash on Delivery,0.05,6.42
+O00273,C0068,2024-05-30,Delivered,Digital Wallet,0.1,8.62
+O00274,C0136,2024-08-12,Delivered,Card,0.0,1.65
+O00275,C0324,2025-07-03,Delivered,Cash on Delivery,0.05,4.45
+O00276,C0186,2024-06-07,Delivered,Bank Transfer,0.1,7.87
+O00277,C0088,2024-11-26,Delivered,Card,0.1,7.56
+O00278,C0035,2025-05-17,Returned,Digital Wallet,0.0,1.6
+O00279,C0124,2025-04-19,Delivered,Bank Transfer,0.05,2.02
+O00280,C0272,2025-10-26,Delivered,Card,0.0,2.22
+O00281,C0141,2024-03-22,Delivered,Card,0.2,4.31
+O00282,C0261,2024-08-03,Delivered,Cash on Delivery,0.15,7.76
+O00283,C0270,2025-12-19,Delivered,Digital Wallet,0.05,3.46
+O00284,C0038,2025-02-19,Delivered,Digital Wallet,0.0,7.97
+O00285,C0218,2024-06-30,Delivered,Bank Transfer,0.05,3.34
+O00286,C0333,2024-07-30,Delivered,Digital Wallet,0.1,6.94
+O00287,C0148,2024-09-04,Delivered,Card,0.0,2.68
+O00288,C0016,2025-02-08,Delivered,Card,0.05,4.67
+O00289,C0315,2024-07-26,Delivered,Card,0.2,6.67
+O00290,C0303,2025-03-29,Delivered,Cash on Delivery,0.2,4.69
+O00291,C0190,2024-11-21,Delivered,Cash on Delivery,0.05,1.78
+O00292,C0200,2025-03-21,Delivered,Bank Transfer,0.0,5.14
+O00293,C0074,2024-04-23,Delivered,Card,0.05,8.92
+O00294,C0274,2025-03-31,Delivered,Digital Wallet,0.15,1.74
+O00295,C0183,2025-11-06,Delivered,Digital Wallet,0.05,3.12
+O00296,C0010,2024-04-08,Delivered,Bank Transfer,0.05,7.64
+O00297,C0236,2024-08-27,Delivered,Digital Wallet,0.1,7.79
+O00298,C0328,2025-05-21,Returned,Card,0.1,4.34
+O00299,C0278,2025-03-26,Delivered,Card,0.0,6.78
+O00300,C0102,2025-05-07,Delivered,Digital Wallet,0.0,1.77
+O00301,C0017,2025-02-12,Delivered,Digital Wallet,0.05,4.42
+O00302,C0323,2025-05-13,Delivered,Digital Wallet,0.2,4.01
+O00303,C0321,2025-03-20,Delivered,Digital Wallet,0.05,5.41
+O00304,C0192,2024-02-24,Delivered,Cash on Delivery,0.2,2.65
+O00305,C0225,2025-07-02,Delivered,Cash on Delivery,0.05,6.0
+O00306,C0169,2024-11-22,Delivered,Digital Wallet,0.2,5.32
+O00307,C0150,2024-02-07,Delivered,Digital Wallet,0.15,8.29
+O00308,C0041,2024-10-25,Delivered,Digital Wallet,0.2,6.95
+O00309,C0033,2024-11-13,Delivered,Digital Wallet,0.2,5.31
+O00310,C0086,2024-03-04,Delivered,Digital Wallet,0.15,1.89
+O00311,C0281,2025-12-28,Delivered,Bank Transfer,0.0,8.08
+O00312,C0051,2024-06-11,Delivered,Digital Wallet,0.15,7.45
+O00313,C0083,2024-08-29,Delivered,Card,0.1,2.96
+O00314,C0199,2024-11-17,Returned,Card,0.1,2.68
+O00315,C0075,2025-08-30,Delivered,Digital Wallet,0.15,2.1
+O00316,C0055,2025-06-26,Delivered,Bank Transfer,0.1,3.86
+O00317,C0204,2025-07-16,Delivered,Digital Wallet,0.05,3.63
+O00318,C0133,2024-06-22,Delivered,Digital Wallet,0.05,5.67
+O00319,C0221,2025-09-09,Delivered,Card,0.05,3.35
+O00320,C0311,2025-08-28,Cancelled,Card,0.15,3.41
+O00321,C0051,2024-12-04,Delivered,Card,0.05,5.04
+O00322,C0313,2025-02-02,Delivered,Cash on Delivery,0.0,8.57
+O00323,C0308,2024-01-28,Delivered,Card,0.15,2.62
+O00324,C0278,2025-07-09,Delivered,Digital Wallet,0.0,3.15
+O00325,C0223,2025-12-02,Delivered,Bank Transfer,0.1,2.13
+O00326,C0219,2024-12-10,Delivered,Card,0.0,5.9
+O00327,C0223,2025-01-29,Delivered,Bank Transfer,0.1,6.91
+O00328,C0239,2024-12-30,Delivered,Card,0.15,2.58
+O00329,C0006,2024-03-01,Delivered,Digital Wallet,0.1,6.12
+O00330,C0333,2025-03-28,Returned,Cash on Delivery,0.15,6.01
+O00331,C0209,2025-06-10,Delivered,Digital Wallet,0.1,4.76
+O00332,C0263,2025-11-08,Delivered,Digital Wallet,0.0,7.99
+O00333,C0136,2025-11-09,Delivered,Card,0.05,5.32
+O00334,C0006,2024-12-25,Delivered,Bank Transfer,0.15,3.34
+O00335,C0187,2025-12-01,Delivered,Bank Transfer,0.05,1.59
+O00336,C0187,2025-01-20,Delivered,Cash on Delivery,0.1,6.58
+O00337,C0162,2025-04-13,Delivered,Cash on Delivery,0.0,7.64
+O00338,C0125,2025-03-15,Delivered,Bank Transfer,0.2,6.52
+O00339,C0092,2025-12-30,Delivered,Digital Wallet,0.0,7.87
+O00340,C0191,2025-06-22,Delivered,Bank Transfer,0.0,4.77
+O00341,C0136,2024-03-28,Delivered,Bank Transfer,0.05,4.88
+O00342,C0338,2024-02-22,Delivered,Digital Wallet,0.2,2.42
+O00343,C0058,2024-10-26,Delivered,Cash on Delivery,0.15,3.84
+O00344,C0118,2025-01-11,Delivered,Cash on Delivery,0.15,6.19
+O00345,C0106,2025-05-03,Delivered,Digital Wallet,0.05,1.76
+O00346,C0197,2024-12-17,Delivered,Cash on Delivery,0.0,8.83
+O00347,C0184,2025-01-10,Delivered,Cash on Delivery,0.1,4.22
+O00348,C0226,2025-11-03,Delivered,Card,0.05,6.69
+O00349,C0328,2024-09-01,Delivered,Digital Wallet,0.05,2.11
+O00350,C0104,2024-12-26,Delivered,Cash on Delivery,0.15,4.44
+O00351,C0240,2025-02-10,Cancelled,Cash on Delivery,0.1,4.39
+O00352,C0007,2024-12-07,Delivered,Card,0.1,7.19
+O00353,C0097,2025-12-07,Delivered,Cash on Delivery,0.1,5.2
+O00354,C0170,2025-12-03,Delivered,Bank Transfer,0.1,2.94
+O00355,C0010,2025-01-09,Delivered,Cash on Delivery,0.1,1.61
+O00356,C0219,2024-11-24,Cancelled,Card,0.15,6.77
+O00357,C0235,2025-03-05,Returned,Digital Wallet,0.2,4.28
+O00358,C0255,2024-05-12,Delivered,Card,0.15,2.14
+O00359,C0188,2024-11-06,Delivered,Cash on Delivery,0.0,6.36
+O00360,C0215,2024-06-07,Delivered,Cash on Delivery,0.1,2.32
+O00361,C0144,2024-04-15,Delivered,Bank Transfer,0.05,1.98
+O00362,C0013,2024-03-10,Returned,Cash on Delivery,0.0,6.01
+O00363,C0035,2025-03-04,Delivered,Bank Transfer,0.1,6.5
+O00364,C0230,2024-01-01,Delivered,Card,0.1,7.13
+O00365,C0348,2025-04-16,Delivered,Card,0.1,6.33
+O00366,C0006,2024-11-11,Delivered,Bank Transfer,0.05,6.81
+O00367,C0203,2024-09-24,Cancelled,Digital Wallet,0.0,6.24
+O00368,C0255,2025-07-15,Delivered,Bank Transfer,0.05,2.22
+O00369,C0277,2025-01-28,Returned,Cash on Delivery,0.1,1.7
+O00370,C0197,2025-06-19,Delivered,Cash on Delivery,0.0,1.93
+O00371,C0219,2025-06-01,Delivered,Card,0.15,5.99
+O00372,C0240,2024-01-24,Cancelled,Cash on Delivery,0.0,6.89
+O00373,C0289,2024-06-06,Delivered,Cash on Delivery,0.0,5.65
+O00374,C0042,2025-02-20,Delivered,Bank Transfer,0.0,2.43
+O00375,C0315,2025-12-13,Delivered,Cash on Delivery,0.0,8.71
+O00376,C0007,2024-04-22,Delivered,Bank Transfer,0.15,2.55
+O00377,C0281,2024-03-18,Delivered,Card,0.2,4.7
+O00378,C0025,2025-11-17,Cancelled,Bank Transfer,0.0,8.67
+O00379,C0069,2025-12-06,Delivered,Digital Wallet,0.15,7.27
+O00380,C0002,2024-05-02,Delivered,Bank Transfer,0.0,6.31
+O00381,C0163,2024-10-20,Delivered,Bank Transfer,0.05,6.68
+O00382,C0121,2025-04-02,Delivered,Card,0.2,8.01
+O00383,C0056,2024-05-22,Delivered,Bank Transfer,0.1,2.48
+O00384,C0164,2024-08-26,Delivered,Card,0.15,6.93
+O00385,C0148,2024-10-15,Cancelled,Cash on Delivery,0.1,7.57
+O00386,C0259,2025-04-13,Delivered,Bank Transfer,0.0,5.9
+O00387,C0306,2024-08-12,Delivered,Digital Wallet,0.0,5.51
+O00388,C0228,2024-10-27,Delivered,Card,0.1,4.19
+O00389,C0043,2024-07-30,Returned,Bank Transfer,0.05,3.44
+O00390,C0106,2025-07-08,Delivered,Digital Wallet,0.0,6.44
+O00391,C0312,2024-04-21,Returned,Digital Wallet,0.0,8.13
+O00392,C0029,2024-06-17,Delivered,Digital Wallet,0.0,2.8
+O00393,C0148,2024-07-01,Delivered,Digital Wallet,0.05,2.97
+O00394,C0323,2025-10-23,Delivered,Cash on Delivery,0.1,2.29
+O00395,C0328,2025-11-20,Cancelled,Bank Transfer,0.05,3.17
+O00396,C0149,2024-12-31,Delivered,Bank Transfer,0.05,6.19
+O00397,C0233,2024-04-24,Delivered,Cash on Delivery,0.2,8.09
+O00398,C0167,2025-07-05,Delivered,Bank Transfer,0.1,7.9
+O00399,C0256,2024-12-25,Delivered,Digital Wallet,0.0,8.13
+O00400,C0010,2025-09-12,Delivered,Bank Transfer,0.0,6.82
+O00401,C0050,2024-09-19,Delivered,Digital Wallet,0.1,6.89
+O00402,C0218,2025-12-30,Returned,Card,0.15,7.48
+O00403,C0086,2025-08-12,Delivered,Card,0.15,6.32
+O00404,C0232,2024-06-12,Delivered,Cash on Delivery,0.15,2.45
+O00405,C0128,2025-06-13,Delivered,Digital Wallet,0.1,3.84
+O00406,C0303,2024-07-28,Returned,Card,0.1,4.12
+O00407,C0274,2024-09-12,Delivered,Digital Wallet,0.0,8.14
+O00408,C0181,2024-07-01,Delivered,Card,0.0,8.26
+O00409,C0261,2025-05-13,Delivered,Cash on Delivery,0.0,1.78
+O00410,C0100,2024-07-10,Delivered,Digital Wallet,0.05,6.81
+O00411,C0181,2025-04-11,Delivered,Digital Wallet,0.15,8.23
+O00412,C0069,2025-03-01,Delivered,Cash on Delivery,0.0,2.09
+O00413,C0289,2025-07-02,Delivered,Bank Transfer,0.0,3.18
+O00414,C0276,2025-12-26,Delivered,Bank Transfer,0.05,9.0
+O00415,C0308,2024-01-07,Delivered,Cash on Delivery,0.1,5.57
+O00416,C0300,2025-12-23,Delivered,Cash on Delivery,0.0,8.08
+O00417,C0333,2024-03-20,Delivered,Digital Wallet,0.0,8.94
+O00418,C0083,2025-01-19,Delivered,Card,0.0,4.18
+O00419,C0319,2024-09-05,Delivered,Bank Transfer,0.1,2.66
+O00420,C0206,2025-04-11,Delivered,Card,0.1,8.67
+O00421,C0152,2025-06-10,Delivered,Cash on Delivery,0.1,1.79
+O00422,C0204,2025-09-19,Delivered,Digital Wallet,0.1,5.1
+O00423,C0125,2024-10-20,Delivered,Card,0.15,3.7
+O00424,C0105,2025-11-12,Delivered,Bank Transfer,0.1,6.46
+O00425,C0089,2024-08-23,Delivered,Cash on Delivery,0.1,8.73
+O00426,C0027,2024-05-28,Delivered,Bank Transfer,0.0,1.94
+O00427,C0183,2024-10-03,Delivered,Bank Transfer,0.0,2.15
+O00428,C0305,2025-01-20,Returned,Card,0.1,7.67
+O00429,C0223,2025-05-02,Delivered,Digital Wallet,0.1,8.82
+O00430,C0190,2025-08-30,Delivered,Cash on Delivery,0.15,6.53
+O00431,C0157,2024-06-13,Delivered,Digital Wallet,0.15,8.36
+O00432,C0170,2024-08-09,Delivered,Card,0.15,1.77
+O00433,C0073,2025-11-16,Cancelled,Digital Wallet,0.15,1.71
+O00434,C0276,2024-11-17,Delivered,Cash on Delivery,0.2,6.13
+O00435,C0069,2024-06-25,Delivered,Cash on Delivery,0.15,3.74
+O00436,C0247,2025-12-20,Cancelled,Digital Wallet,0.15,1.99
+O00437,C0257,2024-11-23,Delivered,Cash on Delivery,0.15,3.7
+O00438,C0207,2025-12-20,Delivered,Card,0.2,8.26
+O00439,C0292,2025-11-02,Delivered,Cash on Delivery,0.05,1.73
+O00440,C0105,2025-10-23,Delivered,Bank Transfer,0.0,3.11
+O00441,C0302,2025-02-28,Delivered,Bank Transfer,0.1,4.67
+O00442,C0251,2025-08-05,Delivered,Cash on Delivery,0.05,7.29
+O00443,C0269,2025-12-02,Returned,Card,0.05,5.01
+O00444,C0232,2024-07-15,Delivered,Cash on Delivery,0.0,7.76
+O00445,C0287,2024-01-28,Delivered,Card,0.0,3.35
+O00446,C0347,2024-08-22,Delivered,Bank Transfer,0.1,5.64
+O00447,C0150,2025-04-09,Delivered,Card,0.05,3.27
+O00448,C0272,2025-02-03,Delivered,Bank Transfer,0.15,1.93
+O00449,C0255,2024-02-28,Delivered,Card,0.05,3.31
+O00450,C0165,2025-02-13,Delivered,Digital Wallet,0.0,4.8
+O00451,C0316,2024-05-07,Delivered,Cash on Delivery,0.15,7.93
+O00452,C0144,2025-01-04,Returned,Digital Wallet,0.05,3.61
+O00453,C0204,2025-02-24,Delivered,Bank Transfer,0.2,6.63
+O00454,C0035,2025-04-09,Delivered,Cash on Delivery,0.1,3.17
+O00455,C0082,2024-10-28,Delivered,Bank Transfer,0.1,5.25
+O00456,C0284,2024-10-25,Delivered,Card,0.0,8.07
+O00457,C0145,2025-05-10,Delivered,Digital Wallet,0.1,7.36
+O00458,C0144,2025-06-30,Delivered,Digital Wallet,0.1,6.44
+O00459,C0092,2025-08-12,Delivered,Bank Transfer,0.2,3.05
+O00460,C0180,2024-08-31,Delivered,Digital Wallet,0.1,3.95
+O00461,C0270,2024-11-05,Delivered,Bank Transfer,0.15,5.86
+O00462,C0306,2024-08-29,Delivered,Card,0.1,1.79
+O00463,C0023,2025-01-20,Delivered,Cash on Delivery,0.0,3.46
+O00464,C0207,2024-04-02,Delivered,Bank Transfer,0.0,4.2
+O00465,C0171,2024-11-09,Delivered,Cash on Delivery,0.0,4.38
+O00466,C0218,2024-05-17,Delivered,Card,0.1,7.72
+O00467,C0164,2025-01-23,Delivered,Digital Wallet,0.0,8.47
+O00468,C0146,2025-09-12,Delivered,Cash on Delivery,0.0,4.8
+O00469,C0172,2025-12-20,Delivered,Cash on Delivery,0.0,2.78
+O00470,C0208,2024-11-21,Delivered,Card,0.0,4.22
+O00471,C0185,2024-02-11,Delivered,Card,0.1,8.15
+O00472,C0172,2024-06-15,Delivered,Digital Wallet,0.05,2.29
+O00473,C0274,2024-03-17,Delivered,Card,0.0,5.44
+O00474,C0255,2025-07-08,Delivered,Digital Wallet,0.15,8.8
+O00475,C0125,2025-12-19,Delivered,Cash on Delivery,0.15,1.92
+O00476,C0270,2025-02-08,Delivered,Card,0.2,5.69
+O00477,C0287,2024-05-09,Delivered,Digital Wallet,0.1,5.59
+O00478,C0051,2024-01-16,Cancelled,Bank Transfer,0.1,6.58
+O00479,C0208,2025-12-13,Delivered,Card,0.1,3.98
+O00480,C0104,2024-08-18,Delivered,Digital Wallet,0.2,5.94
+O00481,C0254,2024-03-22,Delivered,Digital Wallet,0.0,8.0
+O00482,C0088,2024-05-09,Delivered,Digital Wallet,0.2,5.62
+O00483,C0234,2024-07-05,Delivered,Card,0.1,8.11
+O00484,C0094,2025-04-23,Delivered,Card,0.2,4.68
+O00485,C0188,2025-10-13,Cancelled,Digital Wallet,0.0,6.11
+O00486,C0327,2024-07-19,Delivered,Cash on Delivery,0.2,2.8
+O00487,C0139,2025-05-16,Delivered,Digital Wallet,0.15,2.08
+O00488,C0300,2024-02-17,Delivered,Cash on Delivery,0.1,6.02
+O00489,C0346,2024-01-08,Delivered,Card,0.05,4.48
+O00490,C0300,2024-02-10,Returned,Bank Transfer,0.05,4.65
+O00491,C0056,2025-11-04,Delivered,Digital Wallet,0.1,1.83
+O00492,C0274,2025-02-28,Delivered,Card,0.1,5.4
+O00493,C0010,2025-08-10,Delivered,Card,0.1,3.24
+O00494,C0144,2024-01-16,Delivered,Cash on Delivery,0.05,8.74
+O00495,C0298,2024-01-17,Delivered,Bank Transfer,0.05,7.16
+O00496,C0238,2025-09-11,Delivered,Cash on Delivery,0.15,2.35
+O00497,C0193,2024-03-15,Delivered,Digital Wallet,0.05,4.48
+O00498,C0143,2024-04-23,Delivered,Cash on Delivery,0.15,5.8
+O00499,C0272,2025-01-13,Delivered,Bank Transfer,0.05,8.41
+O00500,C0245,2025-03-18,Delivered,Card,0.2,6.42
+O00501,C0172,2024-06-16,Delivered,Card,0.15,2.33
+O00502,C0306,2024-11-20,Delivered,Card,0.0,4.43
+O00503,C0084,2025-05-07,Delivered,Bank Transfer,0.15,6.66
+O00504,C0058,2024-11-19,Delivered,Card,0.1,4.25
+O00505,C0225,2024-10-06,Delivered,Bank Transfer,0.2,8.51
+O00506,C0341,2024-02-22,Delivered,Cash on Delivery,0.0,8.81
+O00507,C0092,2024-11-25,Delivered,Cash on Delivery,0.05,5.28
+O00508,C0092,2025-08-09,Returned,Bank Transfer,0.05,3.37
+O00509,C0049,2025-04-02,Delivered,Card,0.05,6.79
+O00510,C0289,2025-10-13,Delivered,Card,0.05,8.78
+O00511,C0083,2024-04-02,Delivered,Bank Transfer,0.1,1.98
+O00512,C0186,2024-01-09,Delivered,Card,0.1,7.71
+O00513,C0346,2025-02-04,Delivered,Card,0.05,7.74
+O00514,C0006,2024-05-10,Delivered,Card,0.1,7.47
+O00515,C0203,2025-03-09,Delivered,Digital Wallet,0.2,2.4
+O00516,C0188,2025-10-21,Delivered,Cash on Delivery,0.05,5.23
+O00517,C0271,2024-09-03,Delivered,Card,0.05,8.8
+O00518,C0128,2025-02-05,Delivered,Card,0.1,1.96
+O00519,C0149,2025-05-12,Delivered,Digital Wallet,0.2,7.69
+O00520,C0057,2024-04-19,Delivered,Digital Wallet,0.1,5.25
+O00521,C0254,2025-10-17,Delivered,Cash on Delivery,0.15,6.42
+O00522,C0264,2024-05-28,Delivered,Bank Transfer,0.15,4.65
+O00523,C0047,2025-08-13,Delivered,Bank Transfer,0.05,7.98
+O00524,C0144,2025-04-26,Delivered,Cash on Delivery,0.15,8.56
+O00525,C0306,2024-04-12,Delivered,Digital Wallet,0.0,8.64
+O00526,C0002,2025-06-13,Delivered,Digital Wallet,0.05,4.86
+O00527,C0108,2024-05-23,Delivered,Digital Wallet,0.0,7.45
+O00528,C0202,2025-03-13,Delivered,Cash on Delivery,0.1,7.3
+O00529,C0121,2025-12-01,Delivered,Cash on Delivery,0.15,5.67
+O00530,C0100,2025-11-26,Delivered,Cash on Delivery,0.05,5.77
+O00531,C0167,2025-09-28,Delivered,Digital Wallet,0.1,5.25
+O00532,C0063,2024-12-26,Delivered,Bank Transfer,0.15,7.66
+O00533,C0191,2025-02-12,Delivered,Cash on Delivery,0.0,2.98
+O00534,C0245,2024-08-07,Cancelled,Bank Transfer,0.05,5.28
+O00535,C0208,2025-11-03,Delivered,Bank Transfer,0.0,6.58
+O00536,C0031,2024-12-14,Delivered,Bank Transfer,0.15,4.91
+O00537,C0285,2025-07-17,Delivered,Card,0.05,6.16
+O00538,C0059,2024-09-19,Delivered,Cash on Delivery,0.0,7.86
+O00539,C0258,2025-06-24,Delivered,Cash on Delivery,0.15,4.92
+O00540,C0131,2024-06-12,Delivered,Bank Transfer,0.05,4.58
+O00541,C0264,2025-06-19,Delivered,Bank Transfer,0.1,6.32
+O00542,C0072,2024-02-03,Delivered,Bank Transfer,0.1,2.84
+O00543,C0065,2024-03-17,Delivered,Card,0.05,7.98
+O00544,C0183,2024-09-14,Delivered,Cash on Delivery,0.0,3.63
+O00545,C0010,2024-12-17,Cancelled,Digital Wallet,0.0,4.08
+O00546,C0082,2025-06-03,Delivered,Digital Wallet,0.05,8.94
+O00547,C0247,2024-09-19,Delivered,Bank Transfer,0.1,7.33
+O00548,C0281,2024-01-14,Delivered,Bank Transfer,0.1,7.33
+O00549,C0026,2024-08-25,Delivered,Cash on Delivery,0.15,5.29
+O00550,C0302,2024-11-16,Delivered,Digital Wallet,0.0,2.35
+O00551,C0269,2025-01-31,Delivered,Cash on Delivery,0.0,1.79
+O00552,C0296,2025-04-15,Delivered,Digital Wallet,0.15,6.87
+O00553,C0240,2024-06-29,Delivered,Digital Wallet,0.1,1.8
+O00554,C0234,2025-03-21,Delivered,Digital Wallet,0.05,5.1
+O00555,C0191,2025-04-06,Delivered,Bank Transfer,0.05,6.71
+O00556,C0228,2025-07-20,Delivered,Digital Wallet,0.0,5.97
+O00557,C0314,2025-01-16,Delivered,Digital Wallet,0.05,7.48
+O00558,C0035,2025-08-14,Delivered,Digital Wallet,0.15,3.28
+O00559,C0116,2024-06-10,Delivered,Card,0.15,8.14
+O00560,C0024,2025-06-03,Delivered,Card,0.0,7.36
+O00561,C0325,2024-02-03,Delivered,Card,0.15,7.67
+O00562,C0163,2024-03-16,Delivered,Cash on Delivery,0.15,7.32
+O00563,C0234,2025-09-23,Delivered,Card,0.1,2.18
+O00564,C0284,2024-12-12,Delivered,Cash on Delivery,0.0,5.99
+O00565,C0346,2025-03-29,Cancelled,Digital Wallet,0.05,2.62
+O00566,C0054,2025-03-16,Delivered,Bank Transfer,0.15,8.68
+O00567,C0270,2025-05-22,Delivered,Bank Transfer,0.05,2.18
+O00568,C0305,2024-06-28,Delivered,Card,0.0,5.18
+O00569,C0015,2024-05-10,Delivered,Card,0.0,7.38
+O00570,C0256,2024-02-01,Delivered,Card,0.0,8.26
+O00571,C0128,2025-09-23,Delivered,Cash on Delivery,0.05,3.48
+O00572,C0227,2024-06-12,Delivered,Card,0.05,7.12
+O00573,C0188,2025-02-23,Returned,Bank Transfer,0.0,1.63
+O00574,C0095,2024-11-28,Delivered,Bank Transfer,0.1,4.86
+O00575,C0047,2024-04-28,Delivered,Bank Transfer,0.05,6.55
+O00576,C0039,2024-10-29,Delivered,Cash on Delivery,0.1,3.9
+O00577,C0035,2024-03-01,Delivered,Bank Transfer,0.1,5.77
+O00578,C0223,2024-05-08,Cancelled,Card,0.0,4.4
+O00579,C0128,2024-04-11,Delivered,Cash on Delivery,0.05,1.72
+O00580,C0075,2025-08-24,Delivered,Digital Wallet,0.05,8.81
+O00581,C0240,2025-02-18,Delivered,Cash on Delivery,0.15,3.77
+O00582,C0238,2025-11-06,Delivered,Cash on Delivery,0.15,1.67
+O00583,C0195,2024-11-14,Delivered,Card,0.15,4.97
+O00584,C0320,2024-05-26,Delivered,Card,0.05,6.05
+O00585,C0142,2025-03-20,Delivered,Card,0.2,4.45
+O00586,C0281,2025-11-09,Returned,Card,0.1,8.96
+O00587,C0024,2025-01-23,Returned,Digital Wallet,0.05,7.41
+O00588,C0254,2024-01-14,Delivered,Cash on Delivery,0.1,4.1
+O00589,C0346,2024-08-09,Delivered,Digital Wallet,0.1,2.45
+O00590,C0287,2025-11-06,Delivered,Card,0.1,4.68
+O00591,C0208,2025-01-13,Delivered,Digital Wallet,0.1,5.1
+O00592,C0222,2025-11-25,Delivered,Card,0.05,5.06
+O00593,C0128,2025-01-06,Delivered,Cash on Delivery,0.2,8.04
+O00594,C0235,2024-01-09,Delivered,Card,0.0,6.72
+O00595,C0261,2025-09-29,Delivered,Digital Wallet,0.1,1.87
+O00596,C0350,2025-07-11,Returned,Digital Wallet,0.05,2.31
+O00597,C0180,2025-06-06,Delivered,Digital Wallet,0.1,5.84
+O00598,C0021,2025-12-09,Delivered,Card,0.1,1.69
+O00599,C0213,2024-05-23,Delivered,Cash on Delivery,0.0,4.7
+O00600,C0040,2025-10-23,Delivered,Bank Transfer,0.2,7.1
+O00601,C0090,2024-06-18,Delivered,Digital Wallet,0.1,3.34
+O00602,C0120,2025-12-09,Delivered,Digital Wallet,0.15,6.19
+O00603,C0252,2024-05-19,Cancelled,Card,0.15,2.72
+O00604,C0064,2025-02-05,Delivered,Digital Wallet,0.1,8.32
+O00605,C0056,2025-07-30,Delivered,Bank Transfer,0.1,5.03
+O00606,C0014,2024-02-27,Delivered,Digital Wallet,0.15,3.07
+O00607,C0299,2024-02-18,Delivered,Digital Wallet,0.1,7.88
+O00608,C0240,2025-09-12,Delivered,Digital Wallet,0.15,8.04
+O00609,C0012,2024-02-14,Delivered,Cash on Delivery,0.1,1.84
+O00610,C0007,2025-03-24,Delivered,Card,0.05,2.1
+O00611,C0203,2025-11-15,Delivered,Bank Transfer,0.05,3.34
+O00612,C0103,2025-03-24,Delivered,Bank Transfer,0.05,5.79
+O00613,C0213,2024-12-17,Delivered,Card,0.15,2.22
+O00614,C0162,2024-10-31,Delivered,Digital Wallet,0.1,6.18
+O00615,C0315,2025-04-10,Delivered,Bank Transfer,0.15,4.66
+O00616,C0104,2025-02-21,Delivered,Bank Transfer,0.05,7.75
+O00617,C0235,2025-01-01,Cancelled,Bank Transfer,0.1,6.04
+O00618,C0017,2024-04-22,Delivered,Card,0.1,7.22
+O00619,C0331,2025-04-28,Delivered,Bank Transfer,0.1,8.77
+O00620,C0344,2025-06-24,Delivered,Digital Wallet,0.15,5.09
+O00621,C0254,2025-06-01,Delivered,Bank Transfer,0.1,6.52
+O00622,C0171,2024-02-24,Delivered,Bank Transfer,0.1,4.98
+O00623,C0079,2025-05-28,Delivered,Bank Transfer,0.2,7.95
+O00624,C0272,2025-06-16,Delivered,Cash on Delivery,0.1,7.36
+O00625,C0253,2024-05-13,Delivered,Bank Transfer,0.05,3.05
+O00626,C0080,2025-09-11,Delivered,Digital Wallet,0.2,6.79
+O00627,C0164,2025-01-17,Delivered,Cash on Delivery,0.2,3.38
+O00628,C0169,2024-12-10,Delivered,Cash on Delivery,0.0,3.55
+O00629,C0277,2025-06-11,Delivered,Bank Transfer,0.1,5.67
+O00630,C0236,2025-01-07,Delivered,Bank Transfer,0.05,6.9
+O00631,C0226,2025-02-01,Delivered,Digital Wallet,0.2,8.14
+O00632,C0227,2024-08-15,Delivered,Bank Transfer,0.1,3.05
+O00633,C0100,2025-11-08,Delivered,Cash on Delivery,0.15,2.82
+O00634,C0136,2025-12-08,Delivered,Card,0.0,7.62
+O00635,C0014,2024-04-05,Returned,Cash on Delivery,0.05,8.38
+O00636,C0265,2025-06-19,Delivered,Digital Wallet,0.1,6.74
+O00637,C0159,2024-01-18,Delivered,Digital Wallet,0.1,5.41
+O00638,C0162,2024-09-26,Delivered,Cash on Delivery,0.0,6.24
+O00639,C0091,2025-12-09,Delivered,Cash on Delivery,0.0,5.66
+O00640,C0073,2024-05-07,Delivered,Bank Transfer,0.1,1.98
+O00641,C0210,2024-10-02,Delivered,Bank Transfer,0.05,5.46
+O00642,C0086,2024-06-09,Delivered,Digital Wallet,0.1,2.96
+O00643,C0021,2025-06-15,Returned,Digital Wallet,0.1,5.46
+O00644,C0259,2024-12-04,Delivered,Card,0.0,5.96
+O00645,C0136,2025-03-08,Delivered,Cash on Delivery,0.15,8.77
+O00646,C0137,2025-11-19,Delivered,Cash on Delivery,0.1,7.57
+O00647,C0157,2025-01-15,Delivered,Card,0.1,3.0
+O00648,C0272,2025-06-19,Delivered,Cash on Delivery,0.05,1.86
+O00649,C0119,2024-03-12,Cancelled,Card,0.2,8.43
+O00650,C0256,2024-06-06,Delivered,Bank Transfer,0.1,1.71
+O00651,C0323,2025-11-22,Delivered,Card,0.1,4.37
+O00652,C0231,2025-09-19,Delivered,Digital Wallet,0.15,7.42
+O00653,C0158,2025-04-24,Delivered,Card,0.15,1.56
+O00654,C0255,2024-10-03,Delivered,Card,0.2,3.74
+O00655,C0167,2024-05-25,Delivered,Cash on Delivery,0.1,6.45
+O00656,C0150,2025-09-13,Delivered,Digital Wallet,0.1,8.21
+O00657,C0191,2025-07-27,Delivered,Cash on Delivery,0.15,1.78
+O00658,C0117,2024-06-25,Delivered,Digital Wallet,0.05,6.39
+O00659,C0035,2025-03-06,Delivered,Digital Wallet,0.15,2.31
+O00660,C0150,2025-03-27,Delivered,Digital Wallet,0.0,5.38
+O00661,C0043,2024-12-14,Delivered,Bank Transfer,0.0,1.76
+O00662,C0149,2025-11-07,Delivered,Card,0.05,1.94
+O00663,C0203,2024-03-31,Delivered,Cash on Delivery,0.1,1.92
+O00664,C0318,2024-07-07,Delivered,Bank Transfer,0.1,1.92
+O00665,C0012,2024-03-10,Delivered,Cash on Delivery,0.15,8.34
+O00666,C0219,2025-05-20,Delivered,Bank Transfer,0.0,6.82
+O00667,C0167,2025-04-15,Delivered,Cash on Delivery,0.0,6.3
+O00668,C0007,2025-12-21,Delivered,Bank Transfer,0.05,1.77
+O00669,C0092,2025-01-30,Delivered,Card,0.1,5.39
+O00670,C0040,2024-04-19,Delivered,Card,0.15,1.94
+O00671,C0076,2024-11-25,Delivered,Cash on Delivery,0.15,7.96
+O00672,C0101,2024-03-05,Delivered,Digital Wallet,0.1,4.09
+O00673,C0147,2025-05-04,Delivered,Card,0.0,8.36
+O00674,C0191,2025-05-07,Delivered,Digital Wallet,0.15,3.19
+O00675,C0001,2025-09-18,Delivered,Bank Transfer,0.1,5.61
+O00676,C0054,2024-09-05,Delivered,Cash on Delivery,0.15,3.04
+O00677,C0031,2024-08-14,Delivered,Card,0.0,6.61
+O00678,C0200,2024-02-22,Delivered,Cash on Delivery,0.15,6.8
+O00679,C0120,2024-10-30,Cancelled,Cash on Delivery,0.15,5.15
+O00680,C0198,2024-12-12,Delivered,Cash on Delivery,0.05,4.88
+O00681,C0080,2025-07-04,Delivered,Bank Transfer,0.05,6.15
+O00682,C0007,2025-07-04,Delivered,Cash on Delivery,0.2,4.03
+O00683,C0323,2024-04-12,Cancelled,Bank Transfer,0.1,6.06
+O00684,C0036,2024-07-27,Delivered,Digital Wallet,0.0,4.3
+O00685,C0043,2025-01-08,Delivered,Card,0.0,4.47
+O00686,C0051,2024-09-01,Delivered,Cash on Delivery,0.1,2.77
+O00687,C0344,2024-01-19,Delivered,Cash on Delivery,0.1,2.33
+O00688,C0219,2025-09-09,Delivered,Cash on Delivery,0.1,4.71
+O00689,C0218,2025-06-17,Delivered,Card,0.2,8.13
+O00690,C0346,2025-01-14,Returned,Bank Transfer,0.0,2.29
+O00691,C0029,2024-08-19,Delivered,Cash on Delivery,0.1,5.37
+O00692,C0341,2025-09-07,Delivered,Card,0.0,6.25
+O00693,C0072,2024-01-26,Delivered,Bank Transfer,0.05,8.6
+O00694,C0220,2024-11-21,Delivered,Cash on Delivery,0.0,4.77
+O00695,C0150,2025-08-07,Returned,Digital Wallet,0.0,4.37
+O00696,C0141,2025-11-26,Delivered,Bank Transfer,0.15,3.91
+O00697,C0319,2024-07-02,Delivered,Cash on Delivery,0.0,4.63
+O00698,C0051,2025-04-20,Delivered,Card,0.05,7.08
+O00699,C0349,2024-05-18,Delivered,Bank Transfer,0.0,8.65
+O00700,C0137,2024-03-25,Delivered,Cash on Delivery,0.05,6.46
+O00701,C0227,2024-09-14,Delivered,Cash on Delivery,0.0,8.61
+O00702,C0337,2025-10-08,Delivered,Cash on Delivery,0.1,7.27
+O00703,C0019,2025-05-18,Delivered,Digital Wallet,0.1,3.04
+O00704,C0315,2024-12-23,Delivered,Digital Wallet,0.1,7.52
+O00705,C0206,2024-07-25,Delivered,Digital Wallet,0.1,7.22
+O00706,C0244,2024-04-13,Delivered,Bank Transfer,0.05,3.75
+O00707,C0051,2024-07-16,Delivered,Cash on Delivery,0.05,1.78
+O00708,C0194,2024-04-21,Delivered,Digital Wallet,0.2,2.0
+O00709,C0234,2024-05-16,Delivered,Digital Wallet,0.05,7.43
+O00710,C0166,2025-05-16,Delivered,Card,0.0,8.88
+O00711,C0052,2024-04-06,Delivered,Bank Transfer,0.0,3.79
+O00712,C0090,2024-02-04,Delivered,Bank Transfer,0.1,7.05
+O00713,C0287,2025-01-30,Delivered,Card,0.1,2.49
+O00714,C0011,2024-07-28,Cancelled,Digital Wallet,0.1,7.86
+O00715,C0245,2024-11-27,Delivered,Bank Transfer,0.1,3.14
+O00716,C0350,2024-04-12,Delivered,Bank Transfer,0.0,8.48
+O00717,C0002,2024-06-02,Delivered,Card,0.15,5.59
+O00718,C0054,2024-11-17,Delivered,Digital Wallet,0.05,5.7
+O00719,C0234,2025-05-18,Delivered,Bank Transfer,0.0,3.14
+O00720,C0020,2024-10-29,Delivered,Bank Transfer,0.1,1.61
+O00721,C0210,2025-01-30,Delivered,Cash on Delivery,0.1,6.01
+O00722,C0236,2025-01-15,Returned,Cash on Delivery,0.1,5.76
+O00723,C0210,2024-07-15,Delivered,Card,0.1,3.07
+O00724,C0131,2024-07-23,Delivered,Bank Transfer,0.05,5.3
+O00725,C0240,2024-11-06,Delivered,Cash on Delivery,0.2,5.04
+O00726,C0211,2024-01-24,Delivered,Cash on Delivery,0.0,4.68
+O00727,C0073,2025-05-15,Delivered,Bank Transfer,0.0,6.2
+O00728,C0204,2025-03-24,Delivered,Bank Transfer,0.05,8.92
+O00729,C0302,2024-08-11,Delivered,Cash on Delivery,0.05,5.07
+O00730,C0233,2024-09-29,Delivered,Bank Transfer,0.1,3.38
+O00731,C0172,2024-08-27,Delivered,Cash on Delivery,0.05,2.0
+O00732,C0119,2025-04-20,Delivered,Bank Transfer,0.15,6.34
+O00733,C0028,2025-07-08,Delivered,Bank Transfer,0.05,8.63
+O00734,C0090,2024-03-20,Delivered,Bank Transfer,0.0,6.12
+O00735,C0005,2024-10-28,Returned,Digital Wallet,0.0,1.96
+O00736,C0346,2024-01-11,Delivered,Card,0.2,6.39
+O00737,C0080,2024-11-26,Delivered,Card,0.05,6.88
+O00738,C0272,2024-06-30,Delivered,Cash on Delivery,0.1,8.68
+O00739,C0057,2024-09-02,Delivered,Cash on Delivery,0.15,1.74
+O00740,C0103,2024-11-29,Delivered,Bank Transfer,0.15,7.82
+O00741,C0150,2024-08-24,Delivered,Bank Transfer,0.0,7.74
+O00742,C0119,2024-10-14,Delivered,Digital Wallet,0.1,7.3
+O00743,C0269,2025-07-12,Delivered,Digital Wallet,0.05,4.73
+O00744,C0333,2025-08-14,Delivered,Bank Transfer,0.15,4.91
+O00745,C0300,2024-01-05,Delivered,Digital Wallet,0.1,7.2
+O00746,C0051,2024-10-02,Delivered,Card,0.1,4.34
+O00747,C0261,2025-09-10,Delivered,Cash on Delivery,0.05,4.81
+O00748,C0051,2025-01-22,Delivered,Bank Transfer,0.05,8.92
+O00749,C0313,2024-05-29,Cancelled,Cash on Delivery,0.15,5.61
+O00750,C0189,2025-03-09,Delivered,Card,0.1,4.83
+O00751,C0122,2024-04-15,Delivered,Cash on Delivery,0.0,6.17
+O00752,C0053,2024-01-16,Returned,Digital Wallet,0.1,5.14
+O00753,C0006,2025-04-06,Delivered,Card,0.15,7.61
+O00754,C0092,2025-01-11,Delivered,Digital Wallet,0.15,2.33
+O00755,C0313,2025-07-06,Delivered,Bank Transfer,0.1,2.86
+O00756,C0269,2024-09-08,Delivered,Bank Transfer,0.1,7.73
+O00757,C0338,2025-09-15,Delivered,Digital Wallet,0.0,2.77
+O00758,C0035,2024-11-03,Delivered,Bank Transfer,0.05,4.43
+O00759,C0210,2025-06-22,Delivered,Digital Wallet,0.0,7.64
+O00760,C0095,2024-03-14,Delivered,Cash on Delivery,0.05,7.8
+O00761,C0197,2024-03-11,Delivered,Cash on Delivery,0.1,3.71
+O00762,C0119,2025-07-25,Delivered,Digital Wallet,0.05,8.14
+O00763,C0103,2025-08-31,Delivered,Cash on Delivery,0.1,3.45
+O00764,C0207,2025-11-18,Cancelled,Bank Transfer,0.0,5.69
+O00765,C0064,2024-08-24,Delivered,Card,0.0,3.37
+O00766,C0172,2024-01-17,Delivered,Card,0.1,3.76
+O00767,C0228,2025-12-16,Delivered,Cash on Delivery,0.0,4.73
+O00768,C0043,2025-03-15,Delivered,Cash on Delivery,0.0,3.85
+O00769,C0318,2024-06-29,Delivered,Digital Wallet,0.1,2.41
+O00770,C0186,2025-07-11,Delivered,Card,0.05,4.65
+O00771,C0274,2025-10-21,Delivered,Digital Wallet,0.15,3.75
+O00772,C0229,2024-07-26,Delivered,Bank Transfer,0.0,6.71
+O00773,C0245,2025-07-15,Delivered,Digital Wallet,0.15,7.26
+O00774,C0247,2025-07-28,Delivered,Card,0.15,4.98
+O00775,C0300,2025-01-01,Delivered,Bank Transfer,0.0,2.28
+O00776,C0218,2025-04-06,Delivered,Bank Transfer,0.1,6.43
+O00777,C0102,2024-07-15,Delivered,Bank Transfer,0.1,4.27
+O00778,C0034,2025-11-09,Delivered,Bank Transfer,0.15,6.94
+O00779,C0217,2025-12-18,Delivered,Digital Wallet,0.1,4.33
+O00780,C0021,2025-12-17,Delivered,Cash on Delivery,0.05,8.53
+O00781,C0089,2025-06-22,Delivered,Cash on Delivery,0.2,4.23
+O00782,C0020,2024-01-31,Delivered,Bank Transfer,0.0,5.35
+O00783,C0200,2024-09-24,Delivered,Digital Wallet,0.05,3.15
+O00784,C0053,2024-11-20,Delivered,Digital Wallet,0.1,3.16
+O00785,C0218,2025-12-01,Delivered,Cash on Delivery,0.1,6.86
+O00786,C0268,2025-02-03,Delivered,Card,0.0,8.09
+O00787,C0275,2025-01-26,Cancelled,Cash on Delivery,0.1,5.38
+O00788,C0112,2024-04-17,Delivered,Card,0.05,8.53
+O00789,C0200,2025-08-02,Delivered,Bank Transfer,0.05,5.65
+O00790,C0204,2024-09-02,Delivered,Cash on Delivery,0.15,8.15
+O00791,C0172,2024-03-08,Delivered,Digital Wallet,0.05,7.04
+O00792,C0230,2025-12-21,Delivered,Digital Wallet,0.05,5.83
+O00793,C0073,2024-05-18,Delivered,Digital Wallet,0.15,4.74
+O00794,C0344,2024-01-12,Delivered,Bank Transfer,0.2,3.86
+O00795,C0034,2024-02-26,Delivered,Cash on Delivery,0.1,6.65
+O00796,C0278,2024-11-26,Cancelled,Cash on Delivery,0.1,5.93
+O00797,C0211,2024-03-16,Delivered,Cash on Delivery,0.15,2.21
+O00798,C0090,2025-09-07,Delivered,Card,0.05,6.39
+O00799,C0255,2025-01-09,Delivered,Cash on Delivery,0.1,2.08
+O00800,C0027,2024-08-24,Delivered,Digital Wallet,0.0,7.43
+O00801,C0261,2024-01-03,Delivered,Card,0.05,6.88
+O00802,C0210,2024-12-16,Delivered,Cash on Delivery,0.0,2.32
+O00803,C0038,2024-04-20,Delivered,Bank Transfer,0.0,3.49
+O00804,C0026,2025-12-14,Returned,Bank Transfer,0.15,5.91
+O00805,C0255,2024-07-31,Delivered,Bank Transfer,0.0,6.81
+O00806,C0106,2024-12-12,Delivered,Card,0.0,4.48
+O00807,C0305,2024-01-14,Delivered,Cash on Delivery,0.05,2.38
+O00808,C0258,2024-04-05,Delivered,Digital Wallet,0.0,2.39
+O00809,C0240,2024-05-31,Delivered,Bank Transfer,0.0,6.12
+O00810,C0103,2024-02-07,Delivered,Digital Wallet,0.05,2.22
+O00811,C0245,2025-06-13,Delivered,Bank Transfer,0.2,1.91
+O00812,C0327,2025-11-21,Delivered,Cash on Delivery,0.05,3.28
+O00813,C0031,2025-12-20,Delivered,Cash on Delivery,0.05,3.52
+O00814,C0119,2024-07-13,Delivered,Bank Transfer,0.0,3.89
+O00815,C0088,2025-07-29,Delivered,Digital Wallet,0.05,3.8
+O00816,C0144,2025-01-02,Delivered,Cash on Delivery,0.05,2.73
+O00817,C0255,2024-02-03,Cancelled,Card,0.2,7.87
+O00818,C0172,2024-03-07,Delivered,Card,0.05,1.61
+O00819,C0206,2025-02-03,Delivered,Card,0.1,7.95
+O00820,C0115,2024-11-05,Delivered,Cash on Delivery,0.05,2.3
+O00821,C0050,2024-01-07,Delivered,Card,0.1,5.37
+O00822,C0099,2025-11-09,Cancelled,Card,0.0,4.64
+O00823,C0289,2025-06-17,Delivered,Cash on Delivery,0.05,6.21
+O00824,C0215,2025-01-01,Delivered,Card,0.05,5.98
+O00825,C0136,2025-12-21,Delivered,Cash on Delivery,0.1,4.0
+O00826,C0267,2025-12-09,Delivered,Digital Wallet,0.15,6.87
+O00827,C0021,2025-12-11,Delivered,Bank Transfer,0.0,2.8
+O00828,C0094,2024-07-07,Delivered,Card,0.1,8.6
+O00829,C0084,2025-10-05,Delivered,Digital Wallet,0.0,6.7
+O00830,C0346,2025-01-03,Delivered,Cash on Delivery,0.15,7.87
+O00831,C0245,2025-06-14,Delivered,Digital Wallet,0.15,3.42
+O00832,C0219,2025-09-19,Delivered,Cash on Delivery,0.0,8.24
+O00833,C0002,2024-04-29,Delivered,Card,0.05,8.05
+O00834,C0064,2024-11-23,Delivered,Bank Transfer,0.0,1.68
+O00835,C0223,2024-04-04,Delivered,Digital Wallet,0.1,6.18
+O00836,C0137,2024-07-23,Delivered,Digital Wallet,0.2,8.03
+O00837,C0315,2024-10-28,Delivered,Digital Wallet,0.0,2.78
+O00838,C0258,2025-09-16,Delivered,Card,0.1,8.14
+O00839,C0164,2025-09-21,Cancelled,Digital Wallet,0.1,2.42
+O00840,C0255,2024-10-11,Delivered,Card,0.15,2.07
+O00841,C0342,2024-08-28,Delivered,Cash on Delivery,0.05,2.73
+O00842,C0168,2025-01-22,Delivered,Digital Wallet,0.0,7.95
+O00843,C0225,2025-10-27,Returned,Digital Wallet,0.1,5.95
+O00844,C0314,2025-12-13,Cancelled,Cash on Delivery,0.05,8.26
+O00845,C0092,2024-06-14,Delivered,Digital Wallet,0.05,7.99
+O00846,C0303,2024-05-16,Delivered,Bank Transfer,0.0,4.67
+O00847,C0034,2025-05-30,Delivered,Bank Transfer,0.05,4.35
+O00848,C0227,2024-08-08,Delivered,Bank Transfer,0.2,2.93
+O00849,C0264,2024-05-25,Delivered,Digital Wallet,0.0,2.09
+O00850,C0218,2024-01-23,Delivered,Cash on Delivery,0.15,4.09
+O00851,C0182,2024-10-21,Delivered,Card,0.1,6.58
+O00852,C0218,2024-10-13,Delivered,Card,0.1,7.3
+O00853,C0051,2025-02-15,Delivered,Card,0.1,5.93
+O00854,C0075,2024-05-26,Delivered,Cash on Delivery,0.15,4.66
+O00855,C0100,2025-06-05,Cancelled,Card,0.15,4.63
+O00856,C0213,2025-05-11,Delivered,Cash on Delivery,0.1,4.81
+O00857,C0163,2024-12-03,Delivered,Digital Wallet,0.0,3.72
+O00858,C0090,2024-05-12,Delivered,Cash on Delivery,0.05,8.01
+O00859,C0302,2025-01-05,Delivered,Bank Transfer,0.05,7.84
+O00860,C0136,2025-05-07,Delivered,Cash on Delivery,0.05,5.4
+O00861,C0163,2024-09-29,Delivered,Cash on Delivery,0.0,2.22
+O00862,C0149,2024-07-11,Cancelled,Cash on Delivery,0.0,5.61
+O00863,C0063,2025-01-04,Delivered,Cash on Delivery,0.05,8.73
+O00864,C0252,2024-09-16,Delivered,Cash on Delivery,0.2,3.68
+O00865,C0164,2024-10-19,Delivered,Digital Wallet,0.1,8.7
+O00866,C0006,2024-09-11,Delivered,Digital Wallet,0.2,2.01
+O00867,C0337,2024-08-09,Delivered,Digital Wallet,0.05,6.37
+O00868,C0272,2025-06-07,Delivered,Bank Transfer,0.05,8.61
+O00869,C0247,2024-12-01,Delivered,Card,0.1,1.56
+O00870,C0295,2024-12-06,Delivered,Card,0.1,5.17
+O00871,C0310,2025-04-21,Delivered,Digital Wallet,0.1,6.55
+O00872,C0122,2024-09-20,Delivered,Bank Transfer,0.1,6.33
+O00873,C0218,2024-03-14,Delivered,Card,0.05,7.38
+O00874,C0218,2025-09-14,Delivered,Bank Transfer,0.0,2.45
+O00875,C0099,2024-02-10,Delivered,Bank Transfer,0.15,5.44
+O00876,C0080,2025-02-21,Delivered,Bank Transfer,0.0,2.45
+O00877,C0039,2024-07-13,Delivered,Bank Transfer,0.1,6.13
+O00878,C0231,2024-06-05,Delivered,Bank Transfer,0.0,3.13
+O00879,C0263,2024-01-31,Delivered,Bank Transfer,0.1,4.33
+O00880,C0258,2025-10-19,Delivered,Digital Wallet,0.15,1.59
+O00881,C0116,2024-11-09,Delivered,Bank Transfer,0.05,3.42
+O00882,C0072,2024-09-07,Delivered,Digital Wallet,0.1,6.13
+O00883,C0165,2025-06-25,Delivered,Cash on Delivery,0.2,4.81
+O00884,C0197,2024-01-29,Delivered,Digital Wallet,0.15,7.41
+O00885,C0314,2025-02-16,Delivered,Digital Wallet,0.1,4.91
+O00886,C0299,2024-12-27,Delivered,Cash on Delivery,0.0,4.74
+O00887,C0314,2025-02-08,Delivered,Digital Wallet,0.0,7.24
+O00888,C0287,2024-03-31,Delivered,Digital Wallet,0.0,3.4
+O00889,C0337,2025-11-26,Delivered,Cash on Delivery,0.05,7.31
+O00890,C0171,2024-06-23,Delivered,Bank Transfer,0.0,2.05
+O00891,C0014,2025-05-10,Delivered,Card,0.0,3.75
+O00892,C0027,2025-06-29,Delivered,Card,0.15,4.22
+O00893,C0143,2024-09-08,Delivered,Bank Transfer,0.15,6.13
+O00894,C0095,2024-04-05,Delivered,Digital Wallet,0.05,8.67
+O00895,C0058,2024-08-04,Delivered,Card,0.0,8.99
+O00896,C0330,2025-08-12,Delivered,Bank Transfer,0.1,2.96
+O00897,C0069,2025-10-23,Delivered,Bank Transfer,0.1,6.92
+O00898,C0333,2025-11-14,Delivered,Digital Wallet,0.1,6.78
+O00899,C0258,2024-06-14,Delivered,Card,0.1,2.37
+O00900,C0225,2025-03-18,Delivered,Cash on Delivery,0.1,2.68
+O00901,C0235,2024-04-20,Delivered,Digital Wallet,0.05,8.26
+O00902,C0120,2025-06-02,Delivered,Cash on Delivery,0.0,2.05
+O00903,C0226,2024-10-30,Delivered,Cash on Delivery,0.15,6.07
+O00904,C0065,2025-06-04,Delivered,Card,0.1,6.34
+O00905,C0322,2025-05-15,Delivered,Digital Wallet,0.05,4.36
+O00906,C0108,2025-12-25,Delivered,Bank Transfer,0.05,6.48
+O00907,C0094,2024-12-22,Delivered,Card,0.05,7.51
+O00908,C0245,2024-09-06,Delivered,Card,0.05,7.29
+O00909,C0230,2025-01-19,Delivered,Card,0.2,1.67
+O00910,C0164,2024-04-28,Delivered,Card,0.1,7.82
+O00911,C0223,2024-03-22,Delivered,Digital Wallet,0.05,3.78
+O00912,C0053,2025-01-13,Delivered,Bank Transfer,0.05,1.59
+O00913,C0234,2025-08-25,Delivered,Digital Wallet,0.05,3.37
+O00914,C0100,2025-01-24,Delivered,Digital Wallet,0.15,7.9
+O00915,C0101,2025-07-24,Delivered,Bank Transfer,0.15,5.23
+O00916,C0054,2024-05-09,Cancelled,Digital Wallet,0.1,6.91
+O00917,C0120,2024-11-24,Delivered,Cash on Delivery,0.1,8.07
+O00918,C0120,2025-03-23,Delivered,Digital Wallet,0.2,7.24
+O00919,C0165,2024-09-10,Delivered,Bank Transfer,0.05,2.14
+O00920,C0066,2024-01-11,Delivered,Bank Transfer,0.15,6.78
+O00921,C0068,2024-02-23,Delivered,Digital Wallet,0.05,4.94
+O00922,C0196,2025-11-08,Delivered,Card,0.0,1.85
+O00923,C0045,2025-03-17,Delivered,Digital Wallet,0.0,7.02
+O00924,C0238,2024-07-12,Returned,Cash on Delivery,0.2,3.57
+O00925,C0324,2024-07-07,Delivered,Cash on Delivery,0.1,6.42
+O00926,C0155,2024-01-29,Delivered,Cash on Delivery,0.05,8.09
+O00927,C0308,2025-11-20,Delivered,Bank Transfer,0.15,5.24
+O00928,C0034,2024-03-20,Delivered,Cash on Delivery,0.05,7.94
+O00929,C0014,2025-07-08,Delivered,Digital Wallet,0.0,3.18
+O00930,C0247,2024-06-24,Delivered,Digital Wallet,0.1,6.15
+O00931,C0258,2024-09-02,Delivered,Bank Transfer,0.1,4.96
+O00932,C0284,2024-07-18,Delivered,Cash on Delivery,0.0,6.16
+O00933,C0019,2025-08-24,Delivered,Card,0.0,8.01
+O00934,C0262,2024-01-24,Delivered,Digital Wallet,0.1,4.36
+O00935,C0136,2024-09-14,Delivered,Digital Wallet,0.05,5.39
+O00936,C0109,2024-07-22,Delivered,Bank Transfer,0.2,6.95
+O00937,C0058,2024-07-18,Delivered,Bank Transfer,0.2,8.34
+O00938,C0349,2024-05-20,Delivered,Card,0.2,4.86
+O00939,C0021,2025-10-28,Delivered,Cash on Delivery,0.0,5.58
+O00940,C0277,2024-10-03,Delivered,Cash on Delivery,0.05,7.77
+O00941,C0223,2024-11-01,Delivered,Bank Transfer,0.05,2.44
+O00942,C0253,2024-10-08,Delivered,Bank Transfer,0.0,3.35
+O00943,C0245,2025-12-16,Delivered,Digital Wallet,0.0,5.98
+O00944,C0289,2024-09-04,Delivered,Bank Transfer,0.1,6.4
+O00945,C0064,2024-09-06,Delivered,Cash on Delivery,0.0,3.43
+O00946,C0001,2024-08-27,Delivered,Digital Wallet,0.0,7.02
+O00947,C0213,2024-08-26,Delivered,Card,0.1,7.91
+O00948,C0128,2024-03-06,Delivered,Bank Transfer,0.0,3.02
+O00949,C0043,2025-03-17,Delivered,Cash on Delivery,0.0,6.42
+O00950,C0065,2024-01-19,Delivered,Bank Transfer,0.15,6.48
+O00951,C0120,2024-06-13,Delivered,Cash on Delivery,0.05,7.18
+O00952,C0023,2024-05-27,Delivered,Digital Wallet,0.1,5.29
+O00953,C0019,2024-07-31,Delivered,Bank Transfer,0.05,4.14
+O00954,C0314,2025-07-06,Delivered,Cash on Delivery,0.1,4.51
+O00955,C0114,2025-03-13,Delivered,Card,0.15,6.27
+O00956,C0344,2025-12-24,Delivered,Card,0.15,6.3
+O00957,C0337,2024-09-13,Returned,Card,0.15,2.68
+O00958,C0050,2025-11-08,Delivered,Cash on Delivery,0.05,7.86
+O00959,C0246,2024-02-02,Delivered,Bank Transfer,0.2,6.92
+O00960,C0215,2025-01-03,Returned,Digital Wallet,0.05,2.23
+O00961,C0239,2025-08-06,Delivered,Cash on Delivery,0.05,8.21
+O00962,C0033,2025-01-23,Delivered,Card,0.05,3.0
+O00963,C0066,2025-11-12,Returned,Bank Transfer,0.05,5.68
+O00964,C0025,2024-08-17,Delivered,Card,0.1,4.62
+O00965,C0215,2024-01-25,Delivered,Card,0.0,2.2
+O00966,C0346,2025-07-18,Delivered,Card,0.1,3.72
+O00967,C0234,2024-02-19,Delivered,Cash on Delivery,0.2,3.69
+O00968,C0245,2025-07-12,Delivered,Card,0.1,4.37
+O00969,C0345,2025-06-19,Delivered,Card,0.1,4.49
+O00970,C0235,2025-09-08,Delivered,Card,0.05,6.37
+O00971,C0012,2024-12-15,Cancelled,Digital Wallet,0.05,8.59
+O00972,C0293,2025-10-15,Delivered,Card,0.0,7.88
+O00973,C0131,2024-05-03,Delivered,Digital Wallet,0.05,4.54
+O00974,C0002,2024-11-13,Delivered,Card,0.1,1.71
+O00975,C0187,2024-03-29,Delivered,Cash on Delivery,0.0,7.01
+O00976,C0321,2025-07-13,Delivered,Bank Transfer,0.0,5.22
+O00977,C0095,2025-06-05,Delivered,Digital Wallet,0.0,5.69
+O00978,C0180,2025-08-11,Returned,Cash on Delivery,0.2,3.7
+O00979,C0059,2025-07-11,Delivered,Cash on Delivery,0.1,2.94
+O00980,C0019,2024-08-13,Delivered,Bank Transfer,0.1,2.51
+O00981,C0026,2024-02-19,Delivered,Cash on Delivery,0.2,3.66
+O00982,C0249,2025-11-09,Delivered,Cash on Delivery,0.15,1.82
+O00983,C0292,2024-12-25,Delivered,Card,0.15,5.76
+O00984,C0050,2024-03-09,Delivered,Card,0.0,8.26
+O00985,C0104,2025-11-07,Delivered,Card,0.05,7.5
+O00986,C0069,2025-12-26,Delivered,Digital Wallet,0.1,3.89
+O00987,C0007,2024-11-21,Delivered,Digital Wallet,0.1,3.53
+O00988,C0201,2025-07-16,Delivered,Bank Transfer,0.1,7.39
+O00989,C0241,2024-01-27,Delivered,Card,0.05,8.45
+O00990,C0227,2024-03-09,Delivered,Cash on Delivery,0.0,8.62
+O00991,C0143,2024-07-20,Delivered,Cash on Delivery,0.1,5.05
+O00992,C0202,2025-04-24,Delivered,Digital Wallet,0.1,7.72
+O00993,C0031,2024-04-07,Delivered,Bank Transfer,0.1,8.37
+O00994,C0052,2024-01-25,Delivered,Bank Transfer,0.15,7.26
+O00995,C0319,2025-05-03,Delivered,Bank Transfer,0.0,6.52
+O00996,C0258,2025-07-16,Delivered,Card,0.05,6.7
+O00997,C0315,2025-06-23,Delivered,Card,0.05,4.68
+O00998,C0314,2025-08-06,Delivered,Card,0.15,5.58
+O00999,C0227,2025-08-09,Delivered,Digital Wallet,0.05,7.18
+O01000,C0316,2025-03-15,Delivered,Card,0.05,3.03
+O01001,C0150,2025-01-14,Delivered,Digital Wallet,0.0,2.01
+O01002,C0002,2025-09-17,Delivered,Card,0.1,8.48
+O01003,C0021,2024-09-11,Delivered,Card,0.2,2.05
+O01004,C0037,2024-03-12,Delivered,Bank Transfer,0.05,3.33
+O01005,C0032,2025-07-02,Delivered,Digital Wallet,0.05,8.56
+O01006,C0128,2024-07-20,Delivered,Bank Transfer,0.0,5.64
+O01007,C0242,2025-12-15,Delivered,Bank Transfer,0.15,6.92
+O01008,C0268,2024-10-29,Delivered,Bank Transfer,0.1,5.19
+O01009,C0210,2025-09-13,Delivered,Bank Transfer,0.05,1.76
+O01010,C0051,2024-01-31,Delivered,Digital Wallet,0.1,7.94
+O01011,C0255,2025-04-26,Delivered,Card,0.0,7.77
+O01012,C0128,2024-11-23,Returned,Digital Wallet,0.0,6.15
+O01013,C0006,2024-12-03,Delivered,Digital Wallet,0.05,7.69
+O01014,C0103,2024-07-12,Delivered,Digital Wallet,0.0,7.03
+O01015,C0120,2025-12-09,Delivered,Card,0.0,3.64
+O01016,C0101,2024-10-13,Delivered,Card,0.0,8.94
+O01017,C0272,2025-09-12,Delivered,Bank Transfer,0.0,5.25
+O01018,C0257,2024-11-06,Delivered,Bank Transfer,0.0,7.15
+O01019,C0240,2024-02-05,Delivered,Digital Wallet,0.15,1.57
+O01020,C0049,2025-10-03,Delivered,Cash on Delivery,0.05,4.44
+O01021,C0271,2024-05-15,Delivered,Bank Transfer,0.1,5.66
+O01022,C0235,2024-07-16,Delivered,Digital Wallet,0.1,6.4
+O01023,C0069,2025-09-20,Cancelled,Cash on Delivery,0.0,3.74
+O01024,C0227,2025-10-14,Delivered,Cash on Delivery,0.1,1.85
+O01025,C0178,2025-10-31,Delivered,Cash on Delivery,0.05,7.36
+O01026,C0162,2024-11-06,Delivered,Cash on Delivery,0.1,3.83
+O01027,C0038,2025-07-06,Cancelled,Bank Transfer,0.1,8.28
+O01028,C0189,2024-08-27,Delivered,Cash on Delivery,0.1,6.41
+O01029,C0035,2025-06-24,Delivered,Digital Wallet,0.1,6.42
+O01030,C0055,2025-01-01,Delivered,Cash on Delivery,0.15,2.81
+O01031,C0046,2024-02-07,Delivered,Digital Wallet,0.0,2.97
+O01032,C0330,2024-10-31,Delivered,Card,0.05,3.89
+O01033,C0104,2024-12-07,Delivered,Cash on Delivery,0.0,1.96
+O01034,C0128,2024-07-06,Delivered,Digital Wallet,0.15,5.67
+O01035,C0119,2024-09-30,Delivered,Card,0.0,1.68
+O01036,C0307,2025-01-01,Delivered,Digital Wallet,0.1,1.71
+O01037,C0204,2024-02-06,Delivered,Digital Wallet,0.0,1.68
+O01038,C0314,2024-04-20,Delivered,Cash on Delivery,0.0,1.99
+O01039,C0108,2025-07-13,Delivered,Card,0.1,2.37
+O01040,C0039,2024-09-13,Delivered,Bank Transfer,0.05,8.11
+O01041,C0203,2025-03-20,Delivered,Bank Transfer,0.05,4.07
+O01042,C0127,2025-02-17,Cancelled,Digital Wallet,0.2,4.77
+O01043,C0270,2025-02-06,Delivered,Card,0.15,4.53
+O01044,C0301,2024-10-28,Delivered,Card,0.05,5.51
+O01045,C0172,2024-12-18,Delivered,Digital Wallet,0.0,5.25
+O01046,C0340,2025-08-24,Delivered,Bank Transfer,0.1,1.89
+O01047,C0200,2025-12-05,Delivered,Card,0.1,7.17
+O01048,C0100,2024-07-06,Delivered,Cash on Delivery,0.15,7.68
+O01049,C0179,2025-05-03,Delivered,Card,0.0,6.48
+O01050,C0012,2025-12-08,Delivered,Digital Wallet,0.05,4.27
+O01051,C0270,2024-01-06,Delivered,Bank Transfer,0.05,2.26
+O01052,C0035,2025-07-26,Delivered,Card,0.05,7.11
+O01053,C0112,2024-12-28,Delivered,Digital Wallet,0.2,2.74
+O01054,C0204,2025-12-07,Cancelled,Card,0.05,3.94
+O01055,C0014,2025-02-26,Returned,Card,0.0,5.47
+O01056,C0026,2025-09-03,Delivered,Digital Wallet,0.15,3.98
+O01057,C0240,2024-05-01,Delivered,Bank Transfer,0.15,4.58
+O01058,C0024,2024-04-13,Delivered,Bank Transfer,0.05,6.45
+O01059,C0174,2025-11-07,Delivered,Cash on Delivery,0.15,6.44
+O01060,C0124,2025-01-19,Delivered,Card,0.0,7.47
+O01061,C0083,2025-02-11,Delivered,Bank Transfer,0.0,8.77
+O01062,C0066,2024-05-04,Delivered,Cash on Delivery,0.0,2.11
+O01063,C0258,2024-06-14,Delivered,Digital Wallet,0.2,1.85
+O01064,C0328,2025-08-20,Delivered,Card,0.15,3.11
+O01065,C0049,2024-08-09,Delivered,Card,0.0,7.04
+O01066,C0333,2025-03-02,Delivered,Cash on Delivery,0.05,7.48
+O01067,C0212,2024-08-19,Returned,Digital Wallet,0.05,6.06
+O01068,C0225,2024-07-11,Returned,Cash on Delivery,0.05,7.37
+O01069,C0245,2024-05-01,Returned,Cash on Delivery,0.0,2.97
+O01070,C0243,2025-11-09,Delivered,Card,0.0,2.62
+O01071,C0274,2025-11-17,Delivered,Digital Wallet,0.1,3.93
+O01072,C0178,2024-03-25,Delivered,Card,0.05,2.7
+O01073,C0194,2024-09-14,Delivered,Cash on Delivery,0.0,4.98
+O01074,C0119,2025-02-15,Delivered,Card,0.0,5.44
+O01075,C0035,2024-10-06,Delivered,Bank Transfer,0.2,4.95
+O01076,C0232,2025-06-10,Delivered,Digital Wallet,0.1,4.28
+O01077,C0010,2024-07-08,Delivered,Digital Wallet,0.1,5.43
+O01078,C0102,2024-02-12,Delivered,Card,0.1,3.56
+O01079,C0031,2024-09-02,Delivered,Bank Transfer,0.05,8.63
+O01080,C0066,2025-03-12,Delivered,Digital Wallet,0.0,5.96
+O01081,C0223,2024-05-11,Delivered,Bank Transfer,0.15,6.77
+O01082,C0223,2025-08-18,Delivered,Digital Wallet,0.05,2.8
+O01083,C0150,2024-01-09,Delivered,Digital Wallet,0.1,8.72
+O01084,C0029,2024-02-19,Delivered,Bank Transfer,0.1,8.75
+O01085,C0159,2025-01-06,Delivered,Cash on Delivery,0.1,4.07
+O01086,C0128,2025-01-08,Delivered,Card,0.15,4.29
+O01087,C0247,2024-08-03,Delivered,Digital Wallet,0.0,8.08
+O01088,C0208,2024-07-07,Delivered,Card,0.05,2.89
+O01089,C0180,2024-02-20,Delivered,Digital Wallet,0.0,2.44
+O01090,C0178,2025-04-28,Delivered,Bank Transfer,0.05,2.79
+O01091,C0337,2024-10-03,Delivered,Card,0.1,5.77
+O01092,C0256,2024-03-27,Delivered,Bank Transfer,0.15,4.41
+O01093,C0183,2024-10-18,Delivered,Card,0.1,1.9
+O01094,C0175,2025-11-15,Delivered,Bank Transfer,0.1,3.98
+O01095,C0007,2024-07-09,Delivered,Bank Transfer,0.2,6.51
+O01096,C0323,2025-10-15,Delivered,Digital Wallet,0.1,7.86
+O01097,C0118,2024-07-07,Delivered,Card,0.1,3.05
+O01098,C0094,2024-05-15,Delivered,Card,0.2,4.84
+O01099,C0350,2024-07-09,Delivered,Card,0.15,5.13
+O01100,C0247,2024-08-23,Delivered,Bank Transfer,0.05,2.78

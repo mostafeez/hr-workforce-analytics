@@ -1,0 +1,26 @@
+product_id,product_name,category,unit_cost,list_price
+P001,Wireless Earbuds,Electronics,94.0,164.04
+P002,Laptop Stand,Electronics,103.74,205.16
+P003,Keyboard,Electronics,15.83,35.27
+P004,Monitor,Electronics,92.53,190.38
+P005,Power Bank,Electronics,19.73,34.64
+P006,Desk Lamp,Home & Living,47.64,104.05
+P007,Storage Box,Home & Living,79.04,165.24
+P008,Water Bottle,Home & Living,55.99,87.04
+P009,Bedsheet,Home & Living,68.78,96.8
+P010,Coffee Maker,Home & Living,100.18,192.19
+P011,Backpack,Fashion,92.18,153.86
+P012,Sneakers,Fashion,116.63,251.2
+P013,T-Shirt,Fashion,94.51,144.15
+P014,Hoodie,Fashion,58.67,81.52
+P015,Wallet,Fashion,22.74,44.68
+P016,Face Wash,Beauty,90.65,201.31
+P017,Moisturizer,Beauty,42.47,71.49
+P018,Sunscreen,Beauty,59.0,89.71
+P019,Hair Dryer,Beauty,19.94,35.46
+P020,Perfume,Beauty,31.09,60.72
+P021,Yoga Mat,Sports,55.27,116.04
+P022,Dumbbell Set,Sports,85.53,139.51
+P023,Running Belt,Sports,100.71,208.9
+P024,Fitness Band,Sports,49.56,79.77
+P025,Skipping Rope,Sports,83.49,123.21
